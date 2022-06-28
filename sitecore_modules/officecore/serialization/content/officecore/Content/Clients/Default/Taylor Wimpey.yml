@@ -1,0 +1,45 @@
+﻿---
+ID: "957ebb66-d142-4a32-bbab-c6c8e3c9ee56"
+Parent: "c50a3478-4f04-4511-92e6-6bc37b7fc29e"
+Template: "dc715301-d2ff-47e2-8b6e-364fb389e449"
+Path: /sitecore/content/officecore/Content/Clients/Default/Taylor Wimpey
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T200445Z
+    - ID: "4ae422d3-db33-4872-909e-388dba8455ac"
+      Hint: Logo
+      Value: |
+        <image mediaid="{232EABC3-E80A-48D1-8165-F8594CED3A28}" ></image>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7303b34a-1332-4d5c-93f3-503b0d1487fc"
+      Hint: Website
+      Value: |
+        <link linktype="external" url="https://taylorwimpey.co.uk" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5ec0f31-3589-4eaf-96b7-975a6e329e7f"
+    - ID: "b133ce72-41da-46a0-9665-63aa3fa01e12"
+      Hint: Vertical
+      Value: Real Estate
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220330T163048Z

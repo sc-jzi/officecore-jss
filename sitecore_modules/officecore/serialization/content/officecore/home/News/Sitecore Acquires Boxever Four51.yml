@@ -1,0 +1,86 @@
+﻿---
+ID: "4e55e4af-a03c-403f-87cc-686d0d9b8aad"
+Parent: "c25726dc-22e4-505c-a470-8191122952be"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/content/officecore/home/News/Sitecore Acquires Boxever Four51
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value: Sitecore Acquires Boxever and Four51
+    - ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+      Hint: Date
+      Value: 20210302T050000Z
+    - ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+      Hint: Text
+      Value: |
+        <p><span><strong>San Francisco, Mar. 3, 2021</strong></span>&nbsp;&mdash; Sitecore&reg;, the global leader in digital experience management software, today announced that it has entered into definitive agreements to acquire Boxever Ltd., a SaaS-based Customer Data Platform (CDP) providing decisioning and experimentation and Four51, Inc., a company delivering modern B2B and B2C experiences for enterprise brands. These acquisitions arrive following Sitecore&rsquo;s unveiling of a $1.2 billion investment plan to fund aggressive growth plans and product innovation earlier this year.</p>
+        <p style="color: #3e4d5c; margin: 0px 0px 20px;">The pandemic has highlighted the need for a flexible and modern Digital Experience Platform (DXP) to provide organizations with the agility and intelligence to keep pace with changing demands. Integrating Boxever&rsquo;s and Four51&rsquo;s innovative technologies with Sitecore's digital marketing solutions will disrupt the industry by offering the first modern, integrated content-to-commerce, SaaS-based DXP. This solution will enable businesses to deliver real-time, personalized digital experiences across every aspect of the buying cycle, increasing customer value and loyalty.</p>
+        <p>Boxever&rsquo;s CDP provides a 360-degree view of customers, advanced segmentation, real-time decisioning and experimentation that acts as the brain within an organization&rsquo;s marketing stack to make every customer interaction more relevant and engaging. The new capabilities expand and enhance Sitecore&rsquo;s customer intelligence and AI-driven personalization tools making it easy to capture, unify and activate customer data and deliver personalized experiences at scale.</p>
+        <p>With Four51&rsquo;s API-first, headless e-commerce solution, enterprises can quickly and easily deliver engaging shopping experiences helping improve customer satisfaction, loyalty and advocacy. The platform complements Sitecore&rsquo;s existing B2C commerce capabilities and will enable Sitecore to define the digital experience market moving forward. Organizations of all sizes across industries will benefit from the expanded capabilities, need for less upfront investment, continuous innovation and a dramatically shorter time to value.</p>
+        <p>The acquisitions are expected to close before the end of March, 2021 and financial terms are not being disclosed. On completion, both CEOs will take on leadership roles and Sitecore expects to invest and grow both Boxever's Dublin and Four51&rsquo;s Minneapolis headquarters.</p>
+        <p>Learn more about the acquisitions.</p>
+        <p>&ldquo;Our mission is to disrupt the digital experience market and these acquisitions will extend our leadership position. Sitecore&rsquo;s innovative digital experience platform spanning content to commerce provides companies with the flexibility and agility necessary to keep pace with changing demands ensuring they seize the digital opportunity to strengthen consumer connections. We&rsquo;re thrilled to welcome the Boxever and Four51 teams to Sitecore and together, we&rsquo;ll shape the future of digital engagement.&rdquo;</p>
+        <p><span><strong>Steve Tzikakis, CEO, Sitecore</strong></span></p>
+        <p><span>&nbsp;</span>&ldquo;Joining forces with Sitecore creates a disruptive proposition that will redefine what&rsquo;s possible for the industry, enabling organizations of all sizes to create seamless, data driven experiences in any channel. We&rsquo;re proud of what we&rsquo;ve accomplished in Boxever through the contribution of our employees and partners, and we&rsquo;re looking forward to this next chapter.</p>
+        <p><span><strong>David O&rsquo;Flanagan, CEO, Boxever Ltd.</strong></span></p>
+        <p><span>&nbsp;</span>&ldquo;We share a vision with Sitecore to help our customers succeed in a digital-first world. Our employees and partners have worked tirelessly to provide organizations with a seamless, future-proof way to deliver innovative e-commerce experiences that help brands seize the digital opportunity &ndash; and this next stage is a testament to our focus on excellence.&rdquo;</p>
+        <p><span><strong>Mark Johnson, CEO, Four51, Inc.</strong></span></p>
+        <p><span><strong>About Sitecore</strong></span><br />
+        Sitecore delivers a digital experience platform that empowers the world&rsquo;s smartest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the only company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Leading companies, including American Express, ASOS, Kimberly-Clark, L&rsquo;Or&eacute;al, and Volvo Cars, rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.<br />
+        <br />
+        <span><strong>About Boxever</strong></span><br />
+        Founded in 2011 in Dublin, Boxever is a digital optimization platform that uses data and AI to help the world&rsquo;s biggest brands make every customer interaction smarter and deliver game-changing customer experience. Recognized by analysts as a leading player in personalization and ranked by Forbes alongside Google, Apple and Amazon as one of the most powerful examples of AI in use today. The Boxever platform provides market leading CDP, decisioning, and experimentation capabilities at unrivaled scale and works with brands including Emirates, Ryanair, Vodafone and Allied Irish Bank (AIB) to revolutionize how they engage customers.<br />
+        <br />
+        <span><strong>About Four51</strong></span><br />
+        Founded in 1999 in Minneapolis, Four51 remains dedicated to eliminating the limitations of e-commerce. The Four51 OrderCloud&trade; platform is a fully composable, API-first, headless e-commerce platform. It powers e-commerce, order management, and B2B marketplace solutions for businesses with the most complex operational realities. Four51 helps manufacturers, distributors, and retailers like Aveda, D&amp;W Diesel, Papa John's, Starbucks, and Diversified Foodservice Supply increase speed and agility, live flexibly, and innovate constantly with an e-commerce platform of the future.<br />
+        <br />
+        Sitecore is a registered trademark of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names or trademarks belong to their respective holders.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T134145Z
+    - ID: "37255cc1-ef10-43f9-8272-222308299015"
+      Hint: Image
+      Value: |
+        <image mediaid="{C54C60E4-D322-4760-AAD9-CB2D0306C112}" ></image>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+      Hint: Title
+      Value: Sitecore Acquires Boxever and Four51
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65998c87-c521-4a93-a4ac-99dc0587c291"
+    - ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{429D6015-7E2A-4ADA-A6AB-024BE624186D}" />
+    - ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+      Hint: Intro
+      Value: "Significantly expands addressable market and accelerates the delivery of the first SaaS-based digital experience platform, extending Sitecore's leadership position"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220526T161253Z

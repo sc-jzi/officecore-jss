@@ -1,0 +1,30 @@
+﻿---
+ID: "1d8cf613-8148-4d20-98a2-96e8802a35f9"
+Parent: "5830836c-4202-4142-b71b-591255a6828d"
+Template: "c1b81772-c326-4b30-9108-6f1ea131f395"
+Path: /sitecore/content/officecore/Content/Tags/Clients/Health
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T155900Z
+    - ID: "54ebf043-053d-4308-a071-0fe568baa2b3"
+      Hint: TagName
+      Value: Health
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38b80feb-1d89-48c2-a56e-3c8991e76aab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220406T150545Z

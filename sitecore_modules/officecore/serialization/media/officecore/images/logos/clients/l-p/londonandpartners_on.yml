@@ -1,0 +1,74 @@
+﻿---
+ID: "80e63703-9c8c-48de-a1ce-b6817bcb2a7a"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/londonandpartners_on"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/80E637039C8C48DEA1CEB6817BCB2A7A.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 159
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "bc2f7c4a-a81b-4b9b-9151-f7bbf5f3ae6e"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 3025
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 159 x 101
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170120T180607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b88e161-5201-4a9e-9ea9-07e1cdd8aabd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T143427Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170120T180607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "caee07dd-8975-441d-993c-b45ea41509ce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T143427Z

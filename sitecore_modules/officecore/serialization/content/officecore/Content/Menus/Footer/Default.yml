@@ -1,0 +1,48 @@
+﻿---
+ID: "0bde3da8-4c10-4b99-9fd7-aa5ef1d954f0"
+Parent: "3ac9bd20-e668-4405-b108-5b0d14d85475"
+Template: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Path: /sitecore/content/officecore/Content/Menus/Footer/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T123731Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7d8d2b5-51e3-46fb-b1db-715d5a50dfc3"
+    - ID: "ba62feb5-9503-423c-a3cb-9cbb6efd5a42"
+      Hint: Contact
+      Value: |
+        
+            <li><span>Address:</span>Sitecore UK Ltd., International House<br />
+            1 St. Katharine's Way, London. E1W 1UN</li>
+            <li><span>Email:</span>sales-uk@sitecore.net</li>
+            <li><span>Phone:</span>+44 (0)20 3327 0630</li>
+            <li><span>Fax:</span>+44 (0)20 7621 1904</li>
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bb66a946-7306-4781-a7b4-1e44084f45ae"
+      Hint: Copyright
+      Value: 2020 © Sitecore UK Ltd. All brand and product names are the property of their respective holders.
+    - ID: "c966411d-a410-4759-9eb7-0341424bacef"
+      Hint: Logo
+      Value: |
+        <image mediaid="{D9FE6471-DB6C-4805-B7C7-B8789819C21B}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220606T173630Z

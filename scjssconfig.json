@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\cm.jss.officecore.demo",
+    "apiKey": "{686A3417-9854-4CD2-B2DE-68715AAFFCBC}",
+    "deploySecret": "jmdt8ohj14o7hmg8p5s7gj56n4yidhhmum0m8xcp7oo",
+    "deployUrl": "https://jss.officecore.demo/sitecore/api/jss/import",
+    "layoutServiceHost": "https://jss.officecore.demo"
+  }
+}

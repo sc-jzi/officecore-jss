@@ -1,0 +1,3556 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore.yml
+ID: "3e5f8d6b-5603-5ec4-b6cd-1f10ddc743c6"
+Parent: "3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore
+Signature: chPAgE3wuXk2uTMDceSJSzKh7mLBX1VpJjD7Y/gWi64=
+Modified: 637885747292428174
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news.yml
+ID: "d47be2de-014a-49df-b14e-5270a471d01c"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/news
+Signature: oBFwLS09tlp9Es3oIDrAcaATG0TJO8Zvg8aH2Agkujc=
+Modified: 637885747301408164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\page-title-bg3.yml
+ID: "f2ad846d-4cc5-4807-b27e-a44436f131c4"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/page-title-bg3"
+Signature: jtTZTsTsLCWM6q2aFc+S1iaGc9OAV4XpeASh3n7zZPI=
+Modified: 637891720686786606
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\officecore_logo_102-avenir.yml
+ID: "04219bc2-67bd-4fdc-b9bb-f593eedcbd4a"
+Parent: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/officecore_logo_102-avenir"
+Signature: Erp+l1n6fnJD849C5d+aq8Kyy2vAS+twrBcAVx/SA4I=
+Modified: 637885747301398171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\officecore_logo_light_purple-avenir.yml
+ID: "8c102709-0f11-4ac4-921d-afbc4ffc91a1"
+Parent: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/officecore_logo_light_purple-avenir"
+Signature: eqFB7hrHGhe5reraeRptX/EeqzjJMuRVhpLecpgPfk0=
+Modified: 637901338298431100
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p.yml
+ID: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Parent: "350d55d2-c24a-4f90-ae41-e7c6a942f4a7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p"
+Signature: XBXR5S7ksEd4fJXXyCUCA7Cj/mRD+G97oDo9b58a3og=
+Modified: 637885747300778187
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u.yml
+ID: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Parent: "350d55d2-c24a-4f90-ae41-e7c6a942f4a7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u"
+Signature: e4HIP2hdPOgjTtV6vdKRzibuRO/mameANsDAOQNnHw8=
+Modified: 637885747301038187
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\v-z.yml
+ID: "0fcd9183-8d9d-4f83-beec-02641661044a"
+Parent: "350d55d2-c24a-4f90-ae41-e7c6a942f4a7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/logos/clients/v-z"
+Signature: 3/cvf7Yy/c7Lls+e0NnDpZKSiiGgY+4yJd05pKlxZFw=
+Modified: 637885747301348172
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games.yml
+ID: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Parent: "89f78b82-4010-485b-b444-10336e5716e1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games
+Signature: AzwGkSmVcy52QpZhC4te70CFQWUtl5eh/vzbcW7eMpE=
+Modified: 637885747292828156
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\aa_on.yml
+ID: "5cad9f56-18df-4d5e-823f-4aac7c9f6666"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/aa_on"
+Signature: fl3xvZPSNzFUkkofvMPMSki7iz1LQkHG5IuDXQHO7ag=
+Modified: 637885747300128177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\aberdeenassetmanagement_on.yml
+ID: "104eabaf-fff0-42c0-8389-1fb74d7e435f"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/aberdeenassetmanagement_on"
+Signature: 68Jx8V4DN6kFD7q/qzUVo2FnSeCbmZlWzzHD3bzqZ4w=
+Modified: 637885747300138174
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\actiononhearingloss_on.yml
+ID: "027dadc4-0d44-499b-bcf3-005d680dbf5f"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/actiononhearingloss_on"
+Signature: KQy+JiEGKi/7kp5kZCq6qxIPfSJeE+mNhRac9j04470=
+Modified: 637885747300148377
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\angliaruskin_on.yml
+ID: "c3a25f60-bd1d-40dc-bceb-fcc26aec2e49"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/angliaruskin_on"
+Signature: XFrgNG8mXYS+rpCbq0IvGbm12Nsm+x9H5/EJevzXAIU=
+Modified: 637885747300158199
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\aon_on.yml
+ID: "b3096dee-d464-47e8-bd17-6729a4c83141"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/aon_on"
+Signature: SFpVHEj6BA7BDZz+KD2HaaySeKM+xsjONK7MTSvPf3w=
+Modified: 637885747300178389
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\ao_on.yml
+ID: "643eb5e8-6571-431f-b38d-29b4b7b1c4d8"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/ao_on"
+Signature: HSntaNlY6WF/rCtSjJWM+eZjIbkmma1OJfkbWsjJNTY=
+Modified: 637885747300168425
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\arm_on.yml
+ID: "2696c0a5-4bad-4cff-8301-c595779e9ae7"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/arm_on"
+Signature: Hjsyq1gfYqnZoGecl9V1HUmNddtYw/UkBzA1h7mneLM=
+Modified: 637885747300188172
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\asa_on.yml
+ID: "062f04ec-f0ac-43fc-b585-491f59004ab3"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/asa_on"
+Signature: 03YkY6odsz1c8C5XLvDfMuApLtycSKJ66Zro0X38LXo=
+Modified: 637885747300198162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\ashurst_on.yml
+ID: "b48ef3cf-69d5-45de-9fd3-22a4af4c26b1"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/ashurst_on"
+Signature: a0idvyiuVsavItkGdK6QWAr2KVJpUEYwijR7K0uSmow=
+Modified: 637885747300208171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\asos_on.yml
+ID: "ed4a99d4-42ce-4b99-a48a-f0659b6e1a4d"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/asos_on"
+Signature: 7KfXLeMjB1bOUmJAagbesfcSV2ibHOQHQ4DpBtmk2U8=
+Modified: 637885747300218163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\astonvilla_on.yml
+ID: "651d2a95-daee-4a52-a429-9724d96431f8"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/astonvilla_on"
+Signature: 6HijGyEUj0FQkQ1B8w+1KV7JB8/zvhRwvjFqvdc8k3Y=
+Modified: 637885747300228368
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\audleytravel_on.yml
+ID: "47034178-fb55-4ce8-a0b9-4bb7c07f64ce"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/audleytravel_on"
+Signature: Fnz4/bwaSBGshbZlMdKxc9sDGnjJeROQgGUaosKNfjA=
+Modified: 637885747300238165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\aviva_on.yml
+ID: "6790fcac-f932-4dbf-bf75-ba7ef893234a"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/aviva_on"
+Signature: +r82OrhJpEDtgevAxYVYVz3vbSeXp+8x/UL3e5PYWvw=
+Modified: 637885747300248265
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\bankofengland_on.yml
+ID: "1bf845f7-5cdd-4109-be5d-bd37f0b8cce4"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/bankofengland_on"
+Signature: UbgmIA3XRC/op6lx+QC/W+R1oX23d5hB52unuCzMhJ0=
+Modified: 637885747300258170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\barclays_on.yml
+ID: "009885b8-ab0e-4e82-b423-8f8b8d03d37d"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/barclays_on"
+Signature: 85GKZtHYXwj/qvzKFUxYeP8nVO5SG7b6EALJelbWB9U=
+Modified: 637885747300268331
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\bedfordcollege_on.yml
+ID: "a8699d86-5876-4e96-8220-56c3a3052fb9"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/bedfordcollege_on"
+Signature: l+6t1WAGZdnktH55tDvlXA23bzLFSShoiYZ4W9B/41k=
+Modified: 637885747300278159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\biffa_on.yml
+ID: "a5dd1926-05bd-47bf-b5e8-8fa0020e5974"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/biffa_on"
+Signature: 5PjNWCYfSlB/gIZ+M9tSTGFV8SbtTAgHIsOPBCQ5ubo=
+Modified: 637885747300288375
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\birdandbird_on.yml
+ID: "4cf46d36-65fd-48c1-88ce-0147f95f5f09"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/birdandbird_on"
+Signature: zrgBCs9TdKTC93XjfnYzsPXlKRL34IB1IHX72p0asUA=
+Modified: 637885747300298369
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\bloorhomes_on.yml
+ID: "b1f6ca7a-427c-43c4-ae7f-50223bf43d5d"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/bloorhomes_on"
+Signature: IIZRVRH11/VZIzzF9JzjFYWmSGLoAyCCE0ljWms4lTM=
+Modified: 637885747300308408
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\bristolairport_on.yml
+ID: "0bc6f5db-eac1-4bcb-8802-0bda9c9c058f"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/bristolairport_on"
+Signature: +KZqUjc4Ip3+MOIMfqw9an+0nRqMkL3Y2JW7HvNr/ww=
+Modified: 637885747300318377
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\britishheartfoundation_on.yml
+ID: "830da34e-894a-428f-ac70-bfcc0f7caeaa"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/britishheartfoundation_on"
+Signature: VIZUwA+DM+T2qND+o7mKR9oSF6UqIsyG3EB6wgOmK9E=
+Modified: 637885747300328150
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\britishleigon_on.yml
+ID: "3ca2730a-e608-42a0-99a5-bfd0461035ff"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/britishleigon_on"
+Signature: CI5Fyrl7J/uyuFEJBk+HXqnpz17zGjZPQ9JjFYH1mHA=
+Modified: 637885747300338178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\britishlibrary_on.yml
+ID: "edc4957a-ded3-4da4-bccb-d34c1caad944"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/britishlibrary_on"
+Signature: LBpjl2yPXduTcTBKBrO/mjiY5dEyR2/kzRgtJPRcFMA=
+Modified: 637885747300338178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\britishmarinefederation_on.yml
+ID: "a8b76223-3a05-4f71-8393-fc29f7da778a"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/britishmarinefederation_on"
+Signature: NKOX8Nvub7DC37PsE9kUIfhQc0TFLwYzylBrpwD0+LM=
+Modified: 637885747300348161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\britishredcross_on.yml
+ID: "23a69198-8a4e-488f-a138-334dbcb1593f"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/britishredcross_on"
+Signature: wvS117CQ86qt9FSsMzZ6Pse02uDqFX1ewKrP6rdzZ7A=
+Modified: 637885747300358161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\britvic_on.yml
+ID: "9fa43964-9709-4b51-b0dd-5e7763fcb638"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/britvic_on"
+Signature: suIiXI90GfOy9VL8hdret5rnmlyo/GGrPxgrUWCvfk0=
+Modified: 637885747300368815
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\brother_on.yml
+ID: "fc7be8f8-d34c-4eee-b29b-e75f8a74e5ac"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/brother_on"
+Signature: L5XxGQZMq0T4wyHEemUTYBi9X/tgIWutZTzvb3LkPqM=
+Modified: 637885747300378200
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\canneslions_on.yml
+ID: "5a1a52d4-e974-45e3-9767-90827595df27"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/canneslions_on"
+Signature: Vx5Zua27aKxRPjSdASXDsvqsFFqy7SCQKIlSVPGwJfQ=
+Modified: 637885747300388195
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\capita_on.yml
+ID: "fa048adb-5e2f-48e7-a605-fa475bd9edae"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/capita_on"
+Signature: FI3gpTnLZL+LF2y12t6yRQ24Dc5x0lox+egaXJ/uM2E=
+Modified: 637885747300398173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\carnival_on.yml
+ID: "ea255b92-b020-480a-8f69-48f5c8df7cce"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/carnival_on"
+Signature: 9t6uv8iOEfWIeezM4/vHWAh4RRMYQDDJsuQDz3tifn4=
+Modified: 637885747300408159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\carterjonas_on.yml
+ID: "f5f45f94-f980-49ff-b20b-dc9a86a89fe9"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/carterjonas_on"
+Signature: l0IMffo8EKJm40fA1fWYrs8LmIMGHcVE+RMIAMUnuCQ=
+Modified: 637885747300418151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\cheffins_on.yml
+ID: "fbb2a52a-b428-4ac2-a09c-28216dc2c98c"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/cheffins_on"
+Signature: 0qP+1r58mw/1JxWtlnnrGRFsKYOle+09EIzzZHrWVF4=
+Modified: 637885747300428213
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\cipfa_on.yml
+ID: "f34afbbb-7989-47df-af8e-c7ec0c4303d3"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/cipfa_on"
+Signature: Es92XdDstJoMZ8OD+KPmiW9gnW9GX8KJQMVY65CgRjs=
+Modified: 637885747300448234
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\cityandguilds_on.yml
+ID: "faca6118-578f-4829-93ac-634b08914c1b"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/cityandguilds_on"
+Signature: esMIISKXTBmRMzsqbMjRjyLg2Iluz2EBlS0l2JCni4I=
+Modified: 637885747300468388
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\conservatives_on.yml
+ID: "90c37091-4f15-4c12-bab2-5205bbea9273"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/conservatives_on"
+Signature: naB3Nx2ZAyy2fkLyHdgJJ5RVYIaW+lj8OpCmdVpB/ek=
+Modified: 637885747300478348
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\controlrisks_on.yml
+ID: "0e641562-a61d-4b33-8dcf-1bc603fe65e8"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/controlrisks_on"
+Signature: IJXlTVN0tsWApLO7Tb+eU+ekzB/sOa6AiyoOfpdo8jY=
+Modified: 637885747300488203
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\costcutter_on.yml
+ID: "4a535182-d522-482f-807e-e1cc9c7682e1"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/costcutter_on"
+Signature: dset14fC2xBYGrI9eVQUM/UgR6BuzVTHmpfoP2R+XPA=
+Modified: 637885747300498204
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\cranfielduniversity_on.yml
+ID: "252a2408-d79f-4746-a88c-f05ba388e69a"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/cranfielduniversity_on"
+Signature: olfJHy2ij8CGUA0cZ7QvYfdvKKX/BW5fsBAT78sCSgM=
+Modified: 637885747300508186
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\crestnicholson_on.yml
+ID: "f05954a3-dee4-47f6-be0c-82528865c9bb"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/crestnicholson_on"
+Signature: 6aI/6P/Yg381SXnBw6XoL0qGRFrq7Sh79+TNth8WfyE=
+Modified: 637885747300518197
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\cysticfibrosistrust_on.yml
+ID: "e3477e3a-2e47-4bdb-8022-3d76d5c4c843"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/cysticfibrosistrust_on"
+Signature: eQ552KtibwAr/9ipGH1AJJF86Ueq8/WtJutDetQwWRM=
+Modified: 637885747300528198
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\dlink_on.yml
+ID: "a541d6a0-9d0c-47b8-bdaa-78cfbab9bbdb"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/dlink_on"
+Signature: Bivb41y7dYGIItnokgw45BlDIxhR9ho0qzLCW8WJ0Y8=
+Modified: 637885747300538208
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\easyjet_on.yml
+ID: "2857ad67-9c4e-413b-972b-ffb36ef8d16a"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/easyjet_on"
+Signature: pHeUl3FAu7+o8M492uEDKL5/lPSmNXSEZoyI5Wf0ubA=
+Modified: 637885747300548204
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\edinburghnapier_on.yml
+ID: "10c23a51-8ac4-42b7-8c29-7fa29eabdc9c"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/edinburghnapier_on"
+Signature: R9stR/SrcmxGsnXCFecHDTYhJ3YtT2xrthETAQNF6aQ=
+Modified: 637885747300548204
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\eon_on.yml
+ID: "de7930f6-9019-44c5-8ac8-c648ebbd5638"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/eon_on"
+Signature: Kq/VL9oQ3NseCFLFkwTMUnAYgp8pG9iyhhrnTy7oEgQ=
+Modified: 637885747300558195
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\euromoney_on.yml
+ID: "b4c0b285-7863-473b-af54-48dcaa2eacb9"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/euromoney_on"
+Signature: iFO1z22cXgdesN+D34jFFNPpyXJjEFXl3W+k0KbbQI8=
+Modified: 637885747300568190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\fairtrade_on.yml
+ID: "9fe3fca9-5bd2-40b1-a44a-6e9d4fa19556"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/fairtrade_on"
+Signature: SQ2v0DQwY8QkCuULrc4lq4kPutbxgzd08x6ZjYreFUE=
+Modified: 637885747300578203
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\fgw_on.yml
+ID: "b0809f1b-7e2d-4d5f-8c9a-139e599f3c8c"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/fgw_on"
+Signature: iF3WSszgVGO02t2ZVmESB2WRsEyKFAQyqdFrrIDvOKQ=
+Modified: 637885747300588164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\firstgroup_on.yml
+ID: "514c078c-ae6b-4ab3-8c40-8681eda4f888"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/firstgroup_on"
+Signature: GaBxhfuLfNIj8sppPrD95M4iS4eZQPaHbLWBRmwZ1BI=
+Modified: 637885747300598202
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\formica_on.yml
+ID: "6b084f68-7f00-48aa-984c-0030112f75c5"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/formica_on"
+Signature: J+q5dq4Kla9it8gb+vGPOqNcYcL1PtME4W8TFepdLKg=
+Modified: 637885747300608233
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\fulham_on.yml
+ID: "2aac2cfe-21b7-41a3-ab57-bab8c69220bc"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/fulham_on"
+Signature: yoC3/rpYhMSBq+9m28GzWLOHYM+4TG/BcKzsxtnKLCQ=
+Modified: 637885747300618201
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f\fullers_on.yml
+ID: "bb3c5f63-2429-4fed-9d47-a9d826bfc66f"
+Parent: "97ba0483-8752-4442-ace3-2e3abf650213"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f/fullers_on"
+Signature: /y+XF+OeO4gldr1NuRhXOKNWwdirO/yoX7Sv5hKvH/A=
+Modified: 637885747300628197
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\g4s_on.yml
+ID: "2b597dc4-35a6-4978-ba9e-4e6d7c33be4a"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/g4s_on"
+Signature: oZwH/x544X/OjE9Jh2fJRASeYXLLHj9Fx8wvp6xivc4=
+Modified: 637885747300648206
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\gehealthcare_on.yml
+ID: "6dca3768-942b-4b44-8a09-b22e9a35b75c"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/gehealthcare_on"
+Signature: veySeqG7GZt6J4c98dUXDlbjl1+IWWaBDnQbuUTgO9w=
+Modified: 637885747300648206
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\geologicalsociety_on.yml
+ID: "ade312b7-e5ad-4d0a-8ab8-437efa7338d7"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/geologicalsociety_on"
+Signature: NHKMPE4v2W8d/UaHQa78CfbjbjUYen/5TSba8jaOh3M=
+Modified: 637885747300658173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\hampshirecc_on.yml
+ID: "85891993-6d6c-4f64-a55a-5d63310d8807"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/hampshirecc_on"
+Signature: c25ISYn+pGwDKh+R7StBfWoxxsZtqc1pGxnzNWl7/UI=
+Modified: 637885747300668168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\highburycollege_on.yml
+ID: "e3f0bb97-d164-47c1-a1ef-5fcf0fd7a117"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/highburycollege_on"
+Signature: QspCPpEtHqUsQbthEBZd7G7stpYkPe56edQqpQXGn7k=
+Modified: 637885747300678169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\homeserve_on.yml
+ID: "784a91d9-b1b9-4c18-8cab-d66c3f808a86"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/homeserve_on"
+Signature: IieUrd8bXyFwn2BwWqZQGK0htWe5KFujD4JB8mHiH84=
+Modified: 637885747300688506
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\hsbc_on.yml
+ID: "ca2cba2b-1e9c-4395-90d8-6693f3a8a5ba"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/hsbc_on"
+Signature: onkTPet0cyTcptBhsRf5KWIxznBEN5AERuuy+z26hoM=
+Modified: 637885747300698169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\icaew_on.yml
+ID: "f6961c53-0100-4c8e-a3f9-5696fa627575"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/icaew_on"
+Signature: eCJ038BBjHt0lQq4r9esmfZ/YxFALawXqGa6QgKLE/U=
+Modified: 637885747300708170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\informa_on.yml
+ID: "aa608708-9028-47f5-8022-aec64c41471a"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/informa_on"
+Signature: /iHFlzmVdtcezhw7EqyW2cArRgDH8VhPf+SKt2QvKwQ=
+Modified: 637885747300718508
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\irwinmitchell_on.yml
+ID: "d57c7852-5524-4de7-a663-7b5966a5bd2f"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/irwinmitchell_on"
+Signature: y6Sczhyh7ouIr0N93Pc5vLv351QJqwMBCWDuoyDLSIU=
+Modified: 637885747300728165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\islington_on.yml
+ID: "11e32bdc-4f9a-4b31-8d27-1c325606ba00"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/islington_on"
+Signature: 2+4DVt8nTBGJrAF269tiqeB0be4f3lr3F+J+dbjH/NA=
+Modified: 637885747300728165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\jcb_on.yml
+ID: "bf578870-19c8-427b-9411-e3c2b0728258"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/jcb_on"
+Signature: 7Ykzg5EzahtFKkJnzTIcWZqzmep0//2k21tynIMSJXg=
+Modified: 637885747300738174
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\jdwetherspoon_on.yml
+ID: "10a8b885-2fe0-4dbd-b1bd-8a736c6bb947"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/jdwetherspoon_on"
+Signature: Rbz6/9JfgSBJoPFTPAikEdooBVnrwl1flu1jAQ7MGQ0=
+Modified: 637885747300748163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\jet2on.yml
+ID: "81ce126d-145b-4d8e-82ce-e1bd86cc2d60"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/jet2on"
+Signature: DpzEQFKz8qQlC7yvKR0oQuo2zMYcqiFOtskeY7+D5+g=
+Modified: 637885747300758178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k\jla_on.yml
+ID: "e363c60d-618a-40b7-a8be-eb5e73b6be98"
+Parent: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k/jla_on"
+Signature: ONm39FuieXiKRGBWKXrIMh8/VskuHdei9K8L+VH4RJE=
+Modified: 637885747300768211
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\laingorourke_on.yml
+ID: "58038a92-c10d-4293-84fd-b20aae7d5bc9"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/laingorourke_on"
+Signature: oP+V0Ezh7J1DOPHVJ3+MEBy0XHHqmNgWIFcFtIfKG7w=
+Modified: 637885747300798182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\lbs_on.yml
+ID: "417890c3-603a-4cdb-a114-7e5826deaa11"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/lbs_on"
+Signature: hqh53AzvBnlcx9MLVDVCdL4sOavPAa1ELGWJUhaMb9c=
+Modified: 637885747300808187
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\leedsbeckett_on.yml
+ID: "c45ef880-a5ef-4446-9ede-a55ad6226b34"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/leedsbeckett_on"
+Signature: zEWuobwH+k5ewBtY6j0ZuNyDDXRFX5UUjPlkmM60oqA=
+Modified: 637885747300818185
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\lewissilkin_on.yml
+ID: "73b5b972-0c6a-41a0-9072-38752c88ae84"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/lewissilkin_on"
+Signature: n21KDGuBej4lBesdZIxMe0/jIkfRAGAMPQ7brvmdPOc=
+Modified: 637885747300828203
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\liverpooljmu_on.yml
+ID: "d9d10a9f-b376-44cb-8a8f-73a27a7054b6"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/liverpooljmu_on"
+Signature: KEymV6S29sKzbExQyaU4XTdH0w2WKdxeoK/5SM6uHoE=
+Modified: 637885747300828203
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\lloyds_on.yml
+ID: "454eb19c-1e50-4951-aa65-edb14a96f0ec"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/lloyds_on"
+Signature: k8Zfw2z6UXFHHUiZAruj9Ub3ctCsa6+EIUAa2fg318s=
+Modified: 637885747300838174
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\londonandpartners_on.yml
+ID: "80e63703-9c8c-48de-a1ce-b6817bcb2a7a"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/londonandpartners_on"
+Signature: NcMWUhLvGywwoHFk9Y/M9+Ju4vPwvrw7CUiWlA9bdNU=
+Modified: 637885747300848169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\londonmetalexchange_on.yml
+ID: "2374cb77-bc28-43ce-a2f1-8113d75896b8"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/londonmetalexchange_on"
+Signature: EyX4wX6guNfLFtvmowgg+Tg0fPkleOn5cxIfOopgCJg=
+Modified: 637885747300858162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\lookers_on.yml
+ID: "9cda5660-a469-4318-94df-dc359d01f60f"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/lookers_on"
+Signature: SuI3bRGVT8IfNjYc8q8k1Od/xQc9/yhAh+YxIpV6N9g=
+Modified: 637885747300868159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\mace_on.yml
+ID: "ebd5d661-67e7-47ef-a737-6c200d9c68f8"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/mace_on"
+Signature: r6Kqy2zAKNAA6FVRxmqNYbfcSuF8XmZrLMn3W0ysxGo=
+Modified: 637885747300868159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\manchestercity_on.yml
+ID: "171591e5-4b38-440c-b153-7a5144ec1450"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/manchestercity_on"
+Signature: qReWNOBEx3G1ZHhcTnF/w8XMp77+6eM0mRvDfBN0IdA=
+Modified: 637885747300878156
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\manchesterunited_on.yml
+ID: "f2175e65-08bc-4337-b672-b4ce211fa040"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/manchesterunited_on"
+Signature: BJk59vw2rfBwcbQQCPuRTsVk5NgmiYPpDe0XCxy+52s=
+Modified: 637885747300888162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\manheim_on.yml
+ID: "db87e76c-1a83-4c93-b22e-5b3d99dfd46f"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/manheim_on"
+Signature: xZmaFvJ6UbluwfVdKsAhtu8+krBOtVtTyDr1OdWsU8c=
+Modified: 637885747300898161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\millerhomes_on.yml
+ID: "9a7cbde1-0920-46fb-a0e1-cb89d0991d19"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/millerhomes_on"
+Signature: 71qL4MlQuDeQT0jD6YKZFAnEP/qraICM8y48QLri8o0=
+Modified: 637885747300918158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\mng_on.yml
+ID: "61d656ca-4368-4546-a44e-0e75b308bd94"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/mng_on"
+Signature: TU7xp3uzaYxUX7/Fu4yC0VknMNCuGJ6pf/icmaASBIg=
+Modified: 637885747300928178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\nas_on.yml
+ID: "2d99b783-82b9-43f2-8ffe-dc7a844bc6a4"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/nas_on"
+Signature: 9ZAWcHkkBg4R2FIFJHvwgCGU/dgKoPAKaEphuJbmqvY=
+Modified: 637885747300938188
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\nationwide_on.yml
+ID: "b6a8c012-0e47-46c8-b855-feab412d4e92"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/nationwide_on"
+Signature: gl1w9psH4lVNe0uB74atDMneXIkQzvOtez7kwYIKPEY=
+Modified: 637885747300948169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\nhs_on.yml
+ID: "cfd3b86c-03e0-421e-ae80-ca54ed35a03f"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/nhs_on"
+Signature: FKee2a8fA5lKxrLMW4iEFUia6gxdymEtBKOxrshKMiM=
+Modified: 637885747300958157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\norfolkcc_on.yml
+ID: "286d3bdc-47be-42a2-8d4b-96a31d71e3d3"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/norfolkcc_on"
+Signature: j6HARK0KRcGUqUnzhmCs9+LzRzV/pBYgFFHFJ3inISU=
+Modified: 637885747300958157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\northumbriauniversity_on.yml
+ID: "e8988405-f186-4232-8ccb-2cce1a3e6089"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/northumbriauniversity_on"
+Signature: GBJOTDiHr+0dmQemOTwjd5Paq2LqTWi3caZxx5daM50=
+Modified: 637885747300968160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\oxfam_on.yml
+ID: "418dee16-32e2-4b10-ba3e-8c124ff7e601"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/oxfam_on"
+Signature: GcKKFsTucuh5w4m2njX4JlBIe8+wqzzYDgXvX96AkfI=
+Modified: 637885747300978159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\prudential_on.yml
+ID: "9ea652c7-ed71-4406-82e7-5f7a65480afa"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/prudential_on"
+Signature: pkOMVxj9D4+xx+msHBHy2VdualIg59VpuH2GXC+WEdc=
+Modified: 637885747301038187
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\qinetiq_on.yml
+ID: "8a808402-2d12-4a16-8cec-700eadfaf2c5"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/qinetiq_on"
+Signature: BWi2yctB+hnxVw7ExpHi2ZdniYl295Foz/G/6nSWZ1w=
+Modified: 637885747301058166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\ramblers_on.yml
+ID: "c3ebf02b-c922-4039-924d-512d68fe85fe"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/ramblers_on"
+Signature: UomS9dXJKjIWNloIEzlteNxM3/SrwxerZMIQv/A+p1I=
+Modified: 637885747301058166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\randa_on.yml
+ID: "2108ab3c-1dbe-4cc9-815d-334fa6e8eebc"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/randa_on"
+Signature: /nO81/8afuKX9OFnmcd6qIELH5rG1QihvIB6ynAtLFg=
+Modified: 637885747301068160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\rcgp_on.yml
+ID: "d78fd685-5c0d-4518-a373-ec14b325ae84"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/rcgp_on"
+Signature: xiwa2P1m2aO7W6fWAAJBK7nEkB5ZXF6fj3o4eAG7cI8=
+Modified: 637885747301078161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\redcarnationhotels_on.yml
+ID: "cb1bf9c1-b65a-4e83-9b18-8d9434711f07"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/redcarnationhotels_on"
+Signature: 3k2/vIMe/My5oHtQOtRBRWkPmWgDjmT49gsM/Ie1uX4=
+Modified: 637885747301088154
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\redrowhomes_on.yml
+ID: "40a403c0-99b5-420f-be3d-8c1961442fea"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/redrowhomes_on"
+Signature: kcVfRgObGSShJygO1wOZAIabh1S/3ZNZydjvUaYMNf8=
+Modified: 637885747301098180
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\riba_on.yml
+ID: "be677724-bb85-4ae4-9070-de74b52ace83"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/riba_on"
+Signature: C/R87WgkDArrMI0pw+YaYCsGfC1uWnVYpneZN5vOjzg=
+Modified: 637885747301118185
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\rnli_on.yml
+ID: "f2364a9e-ba7c-4c54-b5d1-739698227334"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/rnli_on"
+Signature: Sv231abMxDG5207gBvPO7xx2HCghpPga6H3/nDQgeNE=
+Modified: 637885747301118185
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\royalcollegeofnursing_on.yml
+ID: "a2a3dcca-7a3a-47f6-aaad-831286a25284"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/royalcollegeofnursing_on"
+Signature: l2u7RdxFOe1oIw/unIyLNQv+kAnW4GragcMCzfP0aIQ=
+Modified: 637885747301128172
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\royalnavy_on.yml
+ID: "7dab618d-451e-49d8-b28a-e59ffdeab602"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/royalnavy_on"
+Signature: zaGm3NcvOwbFMESWGz7sBG2Z4kqcr14PG4a/+W6p8xo=
+Modified: 637885747301138167
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\royalsociety_on.yml
+ID: "c92065ab-1c09-4f82-8b52-11964c255acc"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/royalsociety_on"
+Signature: fxBfioYn92ufzXXNYePxSnpl5v9JP6MtLdOaYGH8urM=
+Modified: 637885747301148173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\saga_on.yml
+ID: "dc7e76a2-c87d-4b70-932a-1d41fe81fbac"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/saga_on"
+Signature: 1RKEMHjB9A24oleGbNA3uH5q4N7Fiae+Vrz0J7I3lvY=
+Modified: 637885747301158198
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\sainsbury_on.yml
+ID: "4d722f3a-c87c-4f00-9180-25ca77549541"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/sainsbury_on"
+Signature: cROXSUxtsWPK+HdJqshYQLyJb0F0whaHLSWukyAOgGE=
+Modified: 637885747301168168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\scottdunn_on.yml
+ID: "5b229e00-fc64-40ec-b816-e4e0006bc4bc"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/scottdunn_on"
+Signature: hSkpI7auPRL3X82SfeSmFrhfjYgR9xZBzD5req8tHbw=
+Modified: 637885747301168168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\scottishwater_on.yml
+ID: "99c271e1-a3d5-49ab-bf79-da2bc26d244e"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/scottishwater_on"
+Signature: Hc4/yjpcij1Eo1hrzRfdWj5CzWKfiN6QDTZIy3KQtLA=
+Modified: 637885747301178160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\sheffieldhallamuniversity_on.yml
+ID: "0da3bb75-7dad-4f2d-bfb7-18fe9c95a690"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/sheffieldhallamuniversity_on"
+Signature: vq5A0jDswr0XYvyC18M4k3QzhV83OiFbdrIn1pLwqMU=
+Modified: 637885747301188181
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\skipton_on.yml
+ID: "ee564908-e956-4a43-b102-204eedf76dde"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/skipton_on"
+Signature: dkOrEQWQdMPqDk8bZ6w63OjqVE8D2tuBy4qKXRvtIlQ=
+Modified: 637885747301198160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\skiweekends_on.yml
+ID: "7cf67921-7c03-45fd-8db9-ee1da8c49828"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/skiweekends_on"
+Signature: CUEyT0jB4c7TsnjjKEtiOZra/M5MeMGBDO4/wO5GKYU=
+Modified: 637885747301208160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\southamptonfc_on.yml
+ID: "ce3fb053-9cd7-4692-8849-558eb6b6c949"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/southamptonfc_on"
+Signature: Xop9l2J1KwrQVwGGjKIzYIZwnEKFeMnq+axqkWaPu+I=
+Modified: 637885747301218163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\stagecoach_on.yml
+ID: "9625b719-a97a-4bfc-b883-13457fbb511b"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/stagecoach_on"
+Signature: o7lUXTCR4dMzyzgnEnk/KX3RcvvPJGaoreHc++5ZeOo=
+Modified: 637885747301228171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\sunderland_on.yml
+ID: "13b666ae-f205-4dd3-b318-cb9a90c3771d"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/sunderland_on"
+Signature: NARhxNgwqsIjnu2FWzvm68JuD2jaxAqbEAcz8k6/09w=
+Modified: 637885747301228171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\sussexcollege_on.yml
+ID: "aa2ed6f9-12c1-4835-be63-6047ca43dfba"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/sussexcollege_on"
+Signature: MhzNWHSFtpkaR+CB0UIOFKNYvr8rp2KrdToLbMbeUlk=
+Modified: 637885747301238175
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\taylorwimpey_on.yml
+ID: "232eabc3-e80a-48d1-8165-f8594ced3a28"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/taylorwimpey_on"
+Signature: MC++dzY740cu87lk6nUq8P0htT+wDfFbhaj9zIpDbVU=
+Modified: 637885747301248170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\tearfund_on.yml
+ID: "bfb6be6c-71b8-443f-831b-f9597df32e14"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/tearfund_on"
+Signature: P3SM2uWB8mBn8H5PRuAduEPr/4wWZ5BHdwyAU7n7Jos=
+Modified: 637885747301258177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\thameswater_on.yml
+ID: "a9146421-55e5-4b55-a139-bacb2f1aa549"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/thameswater_on"
+Signature: sKuL+LCZVtj/SHnlDJoLJNt+GhklN1sDfZ80yOYw8NE=
+Modified: 637885747301268182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\thefa_on.yml
+ID: "03d68aa4-5f1f-41dc-9cd3-537e810bf8b0"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/thefa_on"
+Signature: ks70KCRc8heRekurU1FMi0Sj5yTgd4LVvEpwNd56J64=
+Modified: 637885747301278176
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\thomascook_on.yml
+ID: "f37bdfda-c57d-4138-b894-f94b0edf6943"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/thomascook_on"
+Signature: SftsEcqocakZWonT7+9u3lN5p9PUxIq2gHYZAZ94HOI=
+Modified: 637885747301288163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\tourismireland_on.yml
+ID: "f35742eb-3f9f-4d5c-9f08-70b462957dd9"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/tourismireland_on"
+Signature: +VGkfoYAXe17IxqE8L7adMj10b/z/lqEGwiURzta/q8=
+Modified: 637885747301298159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\triumph_on.yml
+ID: "ecf08684-2fa2-4370-8078-519c41f117e0"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/triumph_on"
+Signature: krLtKI45NxN3TmQqlWlbHWdwPoa6EG4H8LLmhogQb84=
+Modified: 637885747301298159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\uksport_on.yml
+ID: "1963c4db-ee2e-4e6f-a6f0-e4f72de32894"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/uksport_on"
+Signature: lqXkVXIncTwS8bqrnnph46g5YBD/LWbG3LE4DIsV5Ts=
+Modified: 637885747301308160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\unieastlondon_on.yml
+ID: "060d16d9-a2cf-4ffb-862a-e0b070784969"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/unieastlondon_on"
+Signature: jxmJufawxV3gRG7336pA87bhZ3tkfdc+9ndIspVavjs=
+Modified: 637885747301318164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images.yml
+ID: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Parent: "3e5f8d6b-5603-5ec4-b6cd-1f10ddc743c6"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images
+Signature: TKRp/7xAI411pnLtAhaCTD9XT6TzvKjq76bW0K/vP1s=
+Modified: 637885747292538146
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\symposium-keynote.yml
+ID: "8f271b55-6e6d-4ad9-8942-c7ab390269b1"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/symposium-keynote"
+Signature: P+X9d+x9nCBGoo2nQK2juacVBlAnaLfmv4BhDEt3P0g=
+Modified: 637891176472187828
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\GettyImages-1187563885.yml
+ID: "60eda8eb-0576-464f-9ac6-d7fa2c410b47"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/news/GettyImages-1187563885"
+Signature: 40hWZSvsLVNq5/Dq0ZwYor0kFVCP6/RjK4x/s6RmJQs=
+Modified: 637885747301428172
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\main-banner.yml
+ID: "0c545f5d-2a70-4d2b-99bc-e9abf8dbe64f"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/news/main-banner"
+Signature: 0Exz52QvYWZv86SsOYY/KoXwk/CFiKuzMP8EOmo/1jI=
+Modified: 637891756080582254
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\Man In Street.yml
+ID: "19283bb7-2111-4a1e-9507-a80873d063a4"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/news/Man In Street
+Signature: RppCgxyeb0PqEyFkVZdENZWJX0F/+g7HeZiwsG4lNWI=
+Modified: 637885747301468196
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\Mountains.yml
+ID: "8c852c67-ba29-4c49-a6f1-69901ecaabf5"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/news/Mountains
+Signature: n4F9MReIdtSozDjGM6xvg1LMNz0eS/NkpAEr4f3AKKI=
+Modified: 637885747301478191
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\MVPs.yml
+ID: "466833d2-324a-48c8-a523-697528fc37bf"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/news/MVPs
+Signature: 8N94VMeD144bkve4hBMAzzm6/pbwwUhDW/qlTjNl1kw=
+Modified: 637885747301448190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\Sitecore announces ccso.yml
+ID: "da49ef5c-0340-41ad-9d11-49783a2eacd4"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/news/Sitecore announces ccso
+Signature: P1K8uJbbFXlEtzs87Wi/iEmB9oVcwh35k/9OBecudG8=
+Modified: 637885747301508213
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\Stars.yml
+ID: "3c8971eb-8f6e-4415-bb1e-5c06123db04c"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/news/Stars
+Signature: cCO5I7eaHzAh5wO7C+clBbtLKOC7LdArMQFVHpYFSfM=
+Modified: 637885747301528182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\news\tech.yml
+ID: "c54c60e4-d322-4760-aad9-cb2d0306c112"
+Parent: "d47be2de-014a-49df-b14e-5270a471d01c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/news/tech
+Signature: Mk0LTjRrgToVeCMk6KPbmrqWPgpAGp5Qr1g/Gaws2vk=
+Modified: 637885747301548173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_ContentMgmt_mediumhero_desktop.yml
+ID: "49f8f27a-3095-4e4e-b2b8-b84da0e28f11"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_ContentMgmt_mediumhero_desktop
+Signature: iagcELnzL/KAgfOZbbCoLCLD8wFFBtfdi33tYqxD0nc=
+Modified: 637885747292558142
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_ContentOps_MediumHero_Desktop.yml
+ID: "d897afd0-63ee-455b-b5a2-87d60c87ccc9"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_ContentOps_MediumHero_Desktop
+Signature: ID23+X0dwhxpD1WU7UEYOVkPjNOwAJwVy9dsUXchYyE=
+Modified: 637885747292578137
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_DigAssetMgmt_mediumhero_desktop.yml
+ID: "0042e098-05a6-4bd2-aeca-06baac00a81a"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_DigAssetMgmt_mediumhero_desktop
+Signature: zyAqJK7DZIff4VGyorPW3QD6J6TU3syKgluzj03EIGY=
+Modified: 637885747292628155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_MarketingAutomation_mediumhero_desktop.yml
+ID: "68a4a7d1-40c6-4a81-9eac-708956c30d24"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_MarketingAutomation_mediumhero_desktop
+Signature: /HW/0hCLVYoXRDi2OaxhHi1gpf4oP4jI9QsYyXYTLf0=
+Modified: 637885747292658175
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_Storefronts_mediumhero_desktop.yml
+ID: "0c0b778b-33a2-4947-a6f9-f2ad6b629711"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_Storefronts_mediumhero_desktop
+Signature: vOoBkAAO5POSG5eyamI8m/D6qsXpBN0eimALh1SSH/g=
+Modified: 637885747292728147
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Commerce.yml
+ID: "9c1c6a19-b346-421c-a4c6-caced639fa1b"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/Products/Commerce
+Signature: pDNEPCmaeni6rDcFeC2m6Sb5w3qo58gcCon6d/z4Cdw=
+Modified: 637885747292748128
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\section-surface.yml
+ID: "f9491266-afd4-4e7e-b1b7-d0611e696ee6"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/section-surface"
+Signature: 1Fefe6XMiqXlwv5ts6iFPJpmNRSsjzWWD/zZ3pR0IsE=
+Modified: 637885747299918189
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\section-xbox.yml
+ID: "0d9e47cf-eb61-444e-85a3-ee0c87fd45e6"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/Products/section-xbox"
+Signature: gde/DpfajtIx/jptCiSzs3bvpGO0PAfNc/dh4o6hFuM=
+Modified: 637885747299958505
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\surfacego-3.yml
+ID: "149a7245-7409-4931-beaf-6183a4211030"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/surfacego-3"
+Signature: xWWlAS4kvStHU7e2F6NpEQhodUEoqTAjvwEOt70TCN8=
+Modified: 637885747300018536
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\surfacepro-8.yml
+ID: "a80dcca3-4e24-47c0-aa6d-755f92783737"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/surfacepro-8"
+Signature: Qm9K42VLwOGY4jWK6jIjzhmd/g8fIxD7Qnnyd1fEHD4=
+Modified: 637885747300038160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw.yml
+ID: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw"
+Signature: bYHs8khFSYvn1ruEg6APFaPmePAESGLFIgvRsN7usJY=
+Modified: 637885747292848148
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077.yml
+ID: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077
+Signature: 2bbGnqYVAwfYqyRsEOK6XutopX+/HYL0UiLs3JnJciM=
+Modified: 637885747293138165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal.yml
+ID: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal"
+Signature: YRgi1R4MjCq9Jnl21WkGFQF4iGr1IZuhh04/MsMvpZ0=
+Modified: 637885747293588155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019.yml
+ID: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019"
+Signature: le/mRu8newtDG6V5N48d2DvfRyL28g48GYkNvaFJh54=
+Modified: 637885747294028158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20.yml
+ID: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/fifa20
+Signature: P0RoP0FIW8wEKZdpr4rkC6HCeDGF7G3WFnezF3r439c=
+Modified: 637885747294258160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4.yml
+ID: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4"
+Signature: 5JJj9OYKoWeAg24ILfkXHNHvDBLwANdlKVUSo4JkK+4=
+Modified: 637885747294508165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7.yml
+ID: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7"
+Signature: plP9NAWRUuoOpOKDNsnjx7ubeQKaCX5E2b017NPiNdo=
+Modified: 637885747294928161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint.yml
+ID: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint"
+Signature: I/loz5EAf58dfFByOFSHjkbF28bYspBMaHx8WZ1UInE=
+Modified: 637885747295158182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\halo-infinite.yml
+ID: "465599a2-fd47-4066-98b2-452f930103a2"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/halo-infinite"
+Signature: /DLZAXfPdYnQzqUXTgs1ooijkRMh2aHa9iDejykZqoc=
+Modified: 637885747295358151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage.yml
+ID: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/iceage
+Signature: 6GNl82NGW+QkXRqAr+EV48ah917UNCGjirEqpCzu2wk=
+Modified: 637885747295538173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20.yml
+ID: "35ee018b-baab-4117-a42d-01f632cb3841"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/madden20
+Signature: YrF5fA/efzXk9umD3iB9j92AOCarZVxiyo3f9dXC6d8=
+Modified: 637885747295728159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons.yml
+ID: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons"
+Signature: pQh/pIRWAeBFhXIyiDgMgog3mX28vGr6hj0GUDotxxc=
+Modified: 637885747295948155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19.yml
+ID: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/motogp19
+Signature: QNmqIFe2hCdW9hvn4hAt7LXUXkKhYPHrH6CgFgwf5PE=
+Modified: 637885747296228261
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20.yml
+ID: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/nba2k20
+Signature: 9+BEVMEqwQmgMvioQgzPrHKaL29MBFkUTX5P36Pf1lI=
+Modified: 637885747296528169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\overpass.yml
+ID: "ba310500-9771-4672-ad92-ca79b2faa991"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/overpass
+Signature: C5As3XISTUzPQ33MSLB0kCQ1OAYu8a9ngmwqJL+O+WU=
+Modified: 637885747296698158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3.yml
+ID: "57dce900-7163-4a76-865b-48854212a9a4"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3"
+Signature: /j+qY1lB8d7UxibN+w3wr9CWAV55DuahulUXy4GfdwY=
+Modified: 637885747296878154
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order.yml
+ID: "306faec1-dcb2-409a-a5da-363426a491d6"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order"
+Signature: uroTY3k0ztQdH331ispyHul6xJVlSuCwWMgzOf9AH2M=
+Modified: 637885747297108165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2.yml
+ID: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2"
+Signature: wxEa9xr7DQ43Miqv5IRM0kBHwNVZN1EMwupMycmBVf4=
+Modified: 637885747297528155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver.yml
+ID: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/truckdriver
+Signature: KYcwv5xZqxEprToe/LKGJ3b8HSFmRXPFy6ZONOpamOY=
+Modified: 637885747297888166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ubisoft-games.yml
+ID: "35d2144e-0ac1-435b-a4d0-3e1ab2445705"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ubisoft-games"
+Signature: KYw3n6VbkM0xX5RaBcpP4j77EcBe88FftNuGF8Fq+iM=
+Modified: 637885747298218208
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wrc8.yml
+ID: "909ff01e-7217-4c53-b12a-fb9848e89dfe"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/wrc8
+Signature: AJz/bcwklhGB2fxztWgqJZWPDvcwv8tdxGVOrHmW0fo=
+Modified: 637885747298228184
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wwe2k20.yml
+ID: "43f65a21-c52b-4fa8-930d-4b3258b91c71"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products/Xbox/games/wwe2k20
+Signature: dIEmpzFNx1ZU3J5xBjeQxBjwLEN9ybuBiXUvRhThESU=
+Modified: 637885747298338179
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-cod-mw.yml
+ID: "1d60a317-9a8a-41c6-93a5-576e9e3401d8"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-cod-mw"
+Signature: B2CeBrIjmCgkxbZ+r5FnD5dFoe2NWii2feV05CIqYAc=
+Modified: 637885747298518152
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-cyberpunk2077.yml
+ID: "a27388f9-f4b4-4440-9e9a-8c132c453a78"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-cyberpunk2077"
+Signature: aq6uHy3maHoIyd/8Yc7o+qoliHbU+3wxr3HmwuHxkbg=
+Modified: 637885747298618186
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-doom-eternal.yml
+ID: "79b4e050-6c8b-4d8f-8460-907cdc031e07"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-doom-eternal"
+Signature: m7gyjCGQGC4UTU+svAbeANcuuh54JNktZEyjKeTfNiA=
+Modified: 637885747298668461
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-f1-2019.yml
+ID: "2b0c35f2-a593-424b-832e-95a631500ad2"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-f1-2019"
+Signature: a83bcu7/QMLP+m6yqaZV8o2EGKX5t8HCfIbEls8i2t0=
+Modified: 637885747298708180
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-fifa20.yml
+ID: "3544d651-e95a-485f-b6cb-64da5365b0c2"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-fifa20"
+Signature: B955M543g0UcynDtJTZyTyPsKMJu21WXh0EybptXpPg=
+Modified: 637885747298828172
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-forza-horizon-4.yml
+ID: "59e558b0-a105-4b6c-8a7b-98266d96f4a9"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-forza-horizon-4"
+Signature: 0F1jz0oQaE92w/f11iCF6DRC88deTs3bm77GLGKZxeU=
+Modified: 637885747298908152
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-forza-motorsport-7.yml
+ID: "f666cc07-a510-44e3-ac9c-725325d80ed4"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-forza-motorsport-7"
+Signature: Qj3W0diu+BQkUYIs3thVQ9iNP1xGPbIHNK/107yjqiM=
+Modified: 637885747298938170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-ghostrecon-breakpoint.yml
+ID: "0b95ccd0-d895-458e-8fb9-10ad3b88091c"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-ghostrecon-breakpoint"
+Signature: 4gOgWoDRKR/tCn9DcLVjxOnjv1WEpXumyCEiiDErpjw=
+Modified: 637885747299058162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-iceage.yml
+ID: "b36c8ba3-cde7-49aa-a450-8e6baa7b8989"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-iceage"
+Signature: 934bmmgNqA4fpJE7p88IokltIz+krHUoI7t0lxkE330=
+Modified: 637885747299138167
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-madden20.yml
+ID: "6f878645-1eea-4a24-944e-eef91cafecee"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-madden20"
+Signature: eQ6sD4UjUenI8nPVzeGne9kkm6dpuA6GlYaDNWSlZxQ=
+Modified: 637885747299198158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-minecraft-dungeons.yml
+ID: "3222d393-0a4b-47fd-9897-c5161c3baf07"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-minecraft-dungeons"
+Signature: KKJtVMowxs+AOZdg+KG8Ld8e/6Kdllib2LcyNtN/Y1c=
+Modified: 637885747299228149
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-motogp19.yml
+ID: "b83f2bc4-6347-43c8-9130-061b8c0ca643"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-motogp19"
+Signature: PrQEkrXrBFXDQvW67DZQUvoQIC1cdjU9X6WVXHQIGt4=
+Modified: 637885747299288177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-nba2k20.yml
+ID: "98e95555-bae1-4cbc-a7f4-1f0be0db582d"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-nba2k20"
+Signature: Hy181e+5eqnoWH+FkJLVYXNFXrETDu0pKLfeWmMZmFA=
+Modified: 637885747299378165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-overpass.yml
+ID: "7f92acdc-c84e-4655-84aa-a6303aa9a6ed"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-overpass"
+Signature: OKDBOeVuMAPe6f2xTSfNozWxs7VVhv2s8jgyXQ+6GmU=
+Modified: 637885747299478345
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-resident-evil-3.yml
+ID: "02ba1011-ad17-43f1-bfc3-568535576e12"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-resident-evil-3"
+Signature: l31HOem/KZHRs6UPVYspve9GAGh4WYV+f6pQevfsn2s=
+Modified: 637885747299508194
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-starwars-jedi-fallen-order.yml
+ID: "051d7060-ad47-423f-a202-9875979427f7"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-starwars-jedi-fallen-order"
+Signature: ytdLtthaXiWwdR0xZyX9YoV9uxqjmOvcaWW06Tv5tUQ=
+Modified: 637885747299588154
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-the-division-2.yml
+ID: "e3a38867-3ea1-44e3-92af-d8f7b656bdd3"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-the-division-2"
+Signature: nHwUCtalzs3nhM9G7C97y0ZQYcsqLvsQZDJMlJzQJMk=
+Modified: 637885747299668165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-truckdriver.yml
+ID: "44eb46f8-5fba-4768-8e7b-8834744452b8"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-truckdriver"
+Signature: kup5T7wgyINK+VFbQBIdqtrRXVGReEmXbcgrihoWWCU=
+Modified: 637885747299698183
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-wrc8.yml
+ID: "b9884652-8cf9-4fbf-a1aa-0b731acb5836"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-wrc8"
+Signature: PfmPbdTdl8ue56XRBOdoH1MfRSTkBeiJqaQAUSn61oI=
+Modified: 637885747299778274
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\xbox-games-wwe2k20.yml
+ID: "76f38cc2-dd76-40a8-852c-ce99439a98f4"
+Parent: "2bd0f2e5-f362-4141-93ce-d0e903c0ef7f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/xbox-games-wwe2k20"
+Signature: 9481orCXX3jvTAjlY3fDq8xl6UlH+J8BYL4W0j2ftGE=
+Modified: 637885747299878189
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-01.yml
+ID: "77788f99-6036-4c00-8937-33675f3bc477"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-01"
+Signature: n8oKSa2lXtoGs+/YykcC09FoWj5URzeH0IiRxRHCKwo=
+Modified: 637885747292868137
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-02.yml
+ID: "d1d3adee-35df-4953-9c2b-8521b8a05e00"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-02"
+Signature: DAOTgVpLY6cUa60QioG/+8GCznQqAyb/hQb+LCpdLmc=
+Modified: 637885747292888133
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\universityofessex_on.yml
+ID: "94e97a09-5df4-43c2-abf2-52f19f9a7067"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/universityofessex_on"
+Signature: uFc4LmaybtdPBgh9WoMThDcfQDi7HyQgcPKD5itp8IQ=
+Modified: 637885747301328177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data\media\img.yml
+ID: "62cdf0ab-15c9-5daa-9879-442e42548685"
+Parent: "dd37c211-f67c-556f-8bd7-633fa771325a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/data/media/img
+Signature: JhCd176Xw/gRjroMhIlQ3m57sAQZ4ngtVVPOok5x3y0=
+Modified: 637885747292508164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data\media\img\sc_logo.yml
+ID: "e648f305-15a0-50d1-aeef-d4fac22ad8cf"
+Parent: "62cdf0ab-15c9-5daa-9879-442e42548685"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/data/media/img/sc_logo
+Signature: Ya50Lb5TBDnCj+0NqKsSNcrMJbtuW2iTunRd9vh7fTs=
+Modified: 637885747292528146
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\universityofleicester_on.yml
+ID: "404a273c-35c9-421b-ae10-32904d68b0aa"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/universityofleicester_on"
+Signature: ISZlGLjOz3vX8YMVZ3EpybEyXdIWrVuKcsU52VlQkvk=
+Modified: 637885747301338177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-04.yml
+ID: "29c1b5fb-e33b-42f4-9d6d-e6a0d61f5814"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-04"
+Signature: 8xe/F7XUIoxQErhxs7J3c0Pc0PU9etxPGWWQf0aevq8=
+Modified: 637885747292948153
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-05.yml
+ID: "4dcd8b17-554a-4304-8872-8437260e420a"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-05"
+Signature: pmDHwT6JYuIrDZtRSudxRlubo/UAtwUVISp/7olEI50=
+Modified: 637885747296148190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\q-u\universityofreading_on.yml
+ID: "bd5bf50f-242a-4bd0-98dc-ecbcabb86c51"
+Parent: "61d9fadb-08c7-42fe-ac67-4e6d2706e490"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/q-u/universityofreading_on"
+Signature: Mm9vvD/lNOWI1XweBePJPGfGSDLZ3rwxFM3zcQtUa30=
+Modified: 637885747301338177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-03.yml
+ID: "ca184adb-3a08-4532-a210-4efd3ce4cc32"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-03"
+Signature: D6RhFDik1UqyFk75POp6J6Dkc5FhWSQ1mo1mLFh1d3M=
+Modified: 637885747295808153
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\v-z\vue_on.yml
+ID: "65e03e53-9e40-4892-888d-df9ca27494bd"
+Parent: "0fcd9183-8d9d-4f83-beec-02641661044a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/v-z/vue_on"
+Signature: MEEOil8mG8jMgy6+2OUXPq5IC1xR0I26dgZi7ijKWAA=
+Modified: 637885747301358162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\overpass\overpass-02.yml
+ID: "eaba5c09-0bf7-430d-88a0-43a3d44e0904"
+Parent: "ba310500-9771-4672-ad92-ca79b2faa991"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/overpass/overpass-02"
+Signature: XweqBWgV3DSKBSEy5zaEXfOHJhBZUxtXzqiCCaelX8E=
+Modified: 637885747296778182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\v-z\wagamama_on.yml
+ID: "86ccadb2-c4aa-4744-882d-4a69050b5d58"
+Parent: "0fcd9183-8d9d-4f83-beec-02641661044a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/v-z/wagamama_on"
+Signature: KAI4EP7XvP0WoAHzI8EcQKHA1TZhkGVVOSScN2xWSlE=
+Modified: 637885747301368158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\v-z\welshwater_on.yml
+ID: "226fac85-ff14-4738-ba5b-a3d756abcc70"
+Parent: "0fcd9183-8d9d-4f83-beec-02641661044a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/v-z/welshwater_on"
+Signature: 4Xh089zl7SMqMS3tG7ii8QyWG3WPfY2hgDY2mgvvQQI=
+Modified: 637885747301378161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\v-z\williamsf1_on.yml
+ID: "6de3d0f4-de99-4a4c-9846-1038c3d245ca"
+Parent: "0fcd9183-8d9d-4f83-beec-02641661044a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/v-z/williamsf1_on"
+Signature: 4ggbxbTW/2rFnxPDQ5Itsiyo6HsnEsPuK+4B3YHIQz4=
+Modified: 637885747301388174
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\v-z\zurich_on.yml
+ID: "67eb1119-a536-48a5-9b28-05cb5555b941"
+Parent: "0fcd9183-8d9d-4f83-beec-02641661044a"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/v-z/zurich_on"
+Signature: Wedp0SE68TZSD75J0Wkwr2J4K/pnUZQnIetBuyQ0xes=
+Modified: 637885747301398171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019\f1-2019-04.yml
+ID: "0c90ff4e-c075-4c99-934e-97dd5bc0b155"
+Parent: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019/f1-2019-04"
+Signature: QKNIVk9i/avNHGhChvpSMZVCZ9z9Risl3SjBJA6bAIw=
+Modified: 637885747294198155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data\media.yml
+ID: "dd37c211-f67c-556f-8bd7-633fa771325a"
+Parent: "9d5cc0cd-b2db-50e8-86d6-d9ba23daf021"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/data/media
+Signature: JhCd176Xw/gRjroMhIlQ3m57sAQZ4ngtVVPOok5x3y0=
+Modified: 637885747292458171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019\f1-2019-05.yml
+ID: "2e06e977-cee1-40e5-8a2b-c8ad07519a96"
+Parent: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019/f1-2019-05"
+Signature: OcMrNZ1UaEVjKvO5IlXRujFQKeZyTCCZQgfOF0WH/2k=
+Modified: 637885747294228145
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\officecore_logo_light_teal-avenir.yml
+ID: "d9fe6471-db6c-4805-b7c7-b8789819c21b"
+Parent: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/officecore_logo_light_teal-avenir"
+Signature: d0U3D3vHHwe0vSbqRglo9MslWEiqyjII+8Yw5h/KDHg=
+Modified: 637901338298431100
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019\f1-2019-06.yml
+ID: "fc81c697-8e13-47d5-8c8e-82f1b75a8a11"
+Parent: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019/f1-2019-06"
+Signature: qeJqFpDUnNdLCYdATJTeQZLmcV4d49um2fcEuVEQEww=
+Modified: 637885747294248141
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_PersTesting_mediumhero_desktop.yml
+ID: "52125e3d-3729-484f-b7f2-060c0f95f9d5"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_PersTesting_mediumhero_desktop
+Signature: Trq9pek6KDzXCQTVekFvN5qBzJpfWWtzIkIcYnLyDqk=
+Modified: 637885747292708148
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-01.yml
+ID: "52461028-85b3-4058-a1e3-3c4016340d2a"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-01"
+Signature: 36CX+zP9cCT97ePLR9uoM5UlI62tq+4Ets1VTpOJzVk=
+Modified: 637885747294298282
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\section-sitecore.yml
+ID: "02d350be-54d0-4233-bbc9-4a960f839178"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/Products/section-sitecore"
+Signature: JrTHw1VECMEKU70yw6B4XjaCJlq8qmKZ4Cy3JiTq1bs=
+Modified: 637885747299898158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-02.yml
+ID: "816cd0b1-aeac-4ab6-8b77-84bd708f77a4"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-02"
+Signature: ihDDRkYl/VpTwv9vkWmvW7WcCECXCY7RSCm5Ijw5FXU=
+Modified: 637885747294328152
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\series-x-console-02.yml
+ID: "2a91c3f4-69c9-4328-b981-2281b9b2eb40"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/Products/series-x-console-02"
+Signature: kzBJEP4APZoXwzf1nDahXh2zIGyzuM4DoO2wbLXkiz4=
+Modified: 637885747299988321
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-03.yml
+ID: "3801965a-aba7-48e5-8c22-e405a7ea580e"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-03"
+Signature: CL+IdZutwNNDPzwV9Pwowk0Le8Cq50NZU8MHwNSZwQY=
+Modified: 637885747294348163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\ubisoft-games.yml
+ID: "4c009db9-2874-4af0-9e56-c75c3dc863b9"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/ubisoft-games"
+Signature: JQEjS6AJYjuZW2ZVNCBJMcfWvUKrwRP40qvMNVeHxvc=
+Modified: 637885747300058357
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-04.yml
+ID: "9bac5b76-a9c9-4853-b97d-5af4a9000d43"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-04"
+Signature: uB01wphdNzxUVl6MZGUqQk27YFZNUI0shI0pV2IcvEs=
+Modified: 637885747294378152
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-06.yml
+ID: "00f7d24b-f19b-4dc5-88f5-371b7d4384b3"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-06"
+Signature: 1cGWWs1d9FI4+WfTC0/opvpeux8tZGkXkCpYt1SbUBA=
+Modified: 637885747294738147
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-05.yml
+ID: "20d8e5b9-e71d-4ee8-83d7-fa78189bccd8"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-05"
+Signature: SVHgzlSOcCLGV0Gs2PtRF5FNLjyy7/arzs6arIBXvzA=
+Modified: 637885747294408149
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-08.yml
+ID: "5e895b7b-c223-4b2a-9653-70ed528e0602"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-08"
+Signature: MszaddVrvlC1AZ47wpTLH/nFsDwxQpJaINyuqYV5oos=
+Modified: 637885747294838159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-06.yml
+ID: "deb09a21-36c8-4a02-bc41-44fcdb20fd48"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-06"
+Signature: JSgjHCQL+j0IQeTcRL5NzJi8WvrQr8ZkB8dkrWmtB04=
+Modified: 637885747294438308
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-09.yml
+ID: "e7a04b8d-77d4-480d-86d3-6d25308aada2"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-09"
+Signature: sh8eYBytLl828UHwi7ooZGy75Eofvkfot4JI+30AgAM=
+Modified: 637885747294888160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-07.yml
+ID: "74d8852f-1510-4f78-8d83-5b3d42ba7300"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-07"
+Signature: tbwqiTd6yVAq2D6hzSiZeawG8K/39/VL1fc4o8/lKk8=
+Modified: 637885747294468168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-01.yml
+ID: "1ad7cee3-cd6f-46af-8eeb-ce72d3f4d998"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-01"
+Signature: Cr5pj4F6iGbxk8tElfvcE0koBG9NZBsBGR8UnnQDchk=
+Modified: 637885747294958163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\fifa20\fifa20-08.yml
+ID: "13d63884-f4b3-4a62-a045-51007b9f9daf"
+Parent: "8ffebc26-57b3-48e4-96da-49bae3c6688c"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/fifa20/fifa20-08"
+Signature: qQA/WUBeuWR//VcMi0USjsEmk6baxM7CYky/fs4pyYE=
+Modified: 637885747294498167
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-02.yml
+ID: "40ce6e5f-744f-4129-a0dd-1761c7df9c48"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-02"
+Signature: 4ap85ELcsGz9hloTLHZmudGuU/npfuRmrU9YUgSZgZI=
+Modified: 637885747294978158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-01.yml
+ID: "5a8377e5-af53-41db-ad0b-346c7a251f10"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-01"
+Signature: R3mGP2amRhrVqrOS+lujkIoXnDbBouOeJVusTF+gF4o=
+Modified: 637885747294538155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-04.yml
+ID: "6f63e543-17f2-426b-9123-2a1cc25351d4"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-04"
+Signature: vMIfce/g8d37EwNRz5mU6rTftt3PqsIK/C8q554lWNw=
+Modified: 637885747295038161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-02.yml
+ID: "8e0ad78a-d5ef-4a0f-afc8-78a00c4edf37"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-02"
+Signature: nUGn/jqTfMzlAMGNgSS6OBw4nc5fG99RvrAF+IGDOjY=
+Modified: 637885747294568160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-05.yml
+ID: "3e62f8f9-0334-473f-beed-261bfabf4e26"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-05"
+Signature: npNsmPlAHa0vSheEbznPt+zMFScvJaMrIskLtGGc96s=
+Modified: 637885747295068185
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-03.yml
+ID: "e624c22d-abe8-4b43-9425-db950da3d470"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-03"
+Signature: 9xPgQakeQnkqIjipLz87hPiJ+xBB25I6U0mdgZplnA0=
+Modified: 637885747294598171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-07.yml
+ID: "99d3923c-b641-423b-af99-f8c9517d6366"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-07"
+Signature: YMYfV8MD3mtI5LaYUMWJGUVxwZeaO44QOpc3FLwsLi8=
+Modified: 637885747295148186
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-04.yml
+ID: "da24fee2-0b5d-45fa-bc74-83a21e3cc320"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-04"
+Signature: iJDH5T+1ScCUIvsrQfRVJ0ESfh89R4H0zNLFrqDYXrA=
+Modified: 637885747294648146
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-01.yml
+ID: "9fc1646a-039e-4590-8888-413744d1f14f"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-01"
+Signature: EUjsXdM8C6xuY8fZIj+h/EXBaH3xJ85QcfmEk3DibQE=
+Modified: 637885747295188161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-05.yml
+ID: "bba4da4e-0015-4b99-9a42-130bd3478325"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-05"
+Signature: hX2Pj/2HS+UUh1OOaClNfSvcL8n3dU9tkQvEAWY88Fc=
+Modified: 637885747294688147
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-04.yml
+ID: "ca1a5dd0-97c0-412d-b2b6-76f2266445d0"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-04"
+Signature: IJzZkyIlol3+hBHdvSsbiR0IRkPHCHYna6N8gl4kl5g=
+Modified: 637885747295258142
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-08.yml
+ID: "15977763-a5ef-4de2-bf5e-008bdb95894f"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-08"
+Signature: xGPVbVmtTe2OsI2Ec0pn0x2/Djl3mJDwGU9IiBaA2a0=
+Modified: 637885747298138185
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-05.yml
+ID: "f828c9b5-9763-433f-8d9d-95a4157595dc"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-05"
+Signature: c42+RGqk35hOQ0UN4jRD8HFVpv11/2HfvydRjsYIilc=
+Modified: 637885747295298152
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wrc8\wrc8-01.yml
+ID: "58146e1b-66bb-43ef-a4b7-a94badeb67d6"
+Parent: "909ff01e-7217-4c53-b12a-fb9848e89dfe"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/wrc8/wrc8-01"
+Signature: zIom09mDl4uCyUGt88z7Gf9QCRtvJtqCYQtLV3xLAHM=
+Modified: 637885747298278175
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-06.yml
+ID: "885909ab-9ba6-420d-a77b-0eba364d0841"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-06"
+Signature: 3iLbfUoPZDnPVW9X9nIfsRCJwNAoDJ1LayeFhyHdtgI=
+Modified: 637885747295318151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wrc8\wrc8-02.yml
+ID: "30dfddb6-e194-47c3-ac27-974db62873e3"
+Parent: "909ff01e-7217-4c53-b12a-fb9848e89dfe"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/wrc8/wrc8-02"
+Signature: TIJJclxpPArUw7tsj2rBuSrGJHYkkBTj0GNbsKJHEbE=
+Modified: 637885747298328170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-07.yml
+ID: "738ab5f4-6845-4ecc-bd77-c7d07bceec25"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-07"
+Signature: SmIzL1fV+XC8MfszEbWY8OxL6dU50w0rQ9gYxISi7Lk=
+Modified: 637885747295348151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wwe2k20\wwe2k20-01.yml
+ID: "563e364e-d016-4224-ac9c-aef262ddc4bb"
+Parent: "43f65a21-c52b-4fa8-930d-4b3258b91c71"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/wwe2k20/wwe2k20-01"
+Signature: I1ejM5zmqXwzOqSsTBpbL5uu9BF+jX8XB77XbLBBRa4=
+Modified: 637885747298388323
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-10.yml
+ID: "04f29239-a1e3-4560-a39c-725162b50197"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-10"
+Signature: K+zqw0hadRaQivUjOekcSlA7FAczcWualWFubVwQEX8=
+Modified: 637885747296518443
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wwe2k20\wwe2k20-02.yml
+ID: "389434fe-7752-4a53-8094-3fe03cf03397"
+Parent: "43f65a21-c52b-4fa8-930d-4b3258b91c71"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/wwe2k20/wwe2k20-02"
+Signature: k4xssRLNRFUw+K2CNgeqLufsK4joSL3sbrSoNEwvg0I=
+Modified: 637885747298418155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-01.yml
+ID: "0cfc4459-64f1-4943-bab6-92fe98489e67"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-01"
+Signature: R1hOLb/ldUDH7qcAh8dZPdthQrUZBA11imoROGwxYuQ=
+Modified: 637885747296558147
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\wwe2k20\wwe2k20-03.yml
+ID: "f290d236-2ab2-4b1f-b9d3-1301c2da831d"
+Parent: "43f65a21-c52b-4fa8-930d-4b3258b91c71"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/wwe2k20/wwe2k20-03"
+Signature: T8NmzHWuPj1eBii0gNYhzgYQ7DgNQ/eBAvuV3QKxS8s=
+Modified: 637885747298488197
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-04.yml
+ID: "e7a6cf3f-6b40-4936-b4f7-5fac5d7ff3d9"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-04"
+Signature: Y/2i+C5xjOHR6unb5PD2HMA2udzhqyA23F3lGD296CE=
+Modified: 637885747296618183
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-05.yml
+ID: "4e2d656d-dfcf-420e-9138-18e07aa59d82"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-05"
+Signature: nkGJR0T9h2Zax0GXVsZJ2d8H8Pl1sa8CSkxQiLOD9/8=
+Modified: 637885747296638151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-06.yml
+ID: "03dc6d90-b965-4898-a2c0-7d61203931f8"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-06"
+Signature: vJ5qMLwOXpEKPciwEZrKSBqYLQpAaAgIGLDmpsG7Ha0=
+Modified: 637885747296648396
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-07.yml
+ID: "1dd250ce-e6da-44dc-bbf6-105fc96032bb"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-07"
+Signature: g9wL7IIwY7sbow/nB2jnCDTjaAys/Yc3q5BJ2AQKhVM=
+Modified: 637885747296668150
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-08.yml
+ID: "92430c13-2dcf-4835-81a5-9242a7752fe4"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-08"
+Signature: VHf+y+tTSvmThef6IkCRdREnlJMWXNd4aNKxd7NTrEM=
+Modified: 637885747296688407
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\overpass\overpass-01.yml
+ID: "00314382-d095-4b7c-8ca7-e821f4932821"
+Parent: "ba310500-9771-4672-ad92-ca79b2faa991"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/overpass/overpass-01"
+Signature: /Q8ci6qeo4nR9MhC7iQbdqtEDXghaPlIYhfq3TpZGLU=
+Modified: 637885747296738173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\overpass\overpass-03.yml
+ID: "8eee353e-ce79-42ef-bd4f-b38710556491"
+Parent: "ba310500-9771-4672-ad92-ca79b2faa991"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/overpass/overpass-03"
+Signature: m0KYovt3mgynTi1NgTTGpQv85EjTYYf6qP5MG7rF2z0=
+Modified: 637885747296808405
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\overpass\overpass-04.yml
+ID: "0fc5da69-33f1-4f1b-8871-3e329d466099"
+Parent: "ba310500-9771-4672-ad92-ca79b2faa991"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/overpass/overpass-04"
+Signature: ypd/dBTr8u8nJ37vLsbFAQGVLXSEhqe+XyZhIzNgt5U=
+Modified: 637885747296848409
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\overpass\overpass-05.yml
+ID: "6f91cf41-00de-4701-a6d5-517665478dcc"
+Parent: "ba310500-9771-4672-ad92-ca79b2faa991"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/overpass/overpass-05"
+Signature: qxQJZRXRAYfH8GwpR7sCM4H36d7Znm0reKTPQMuQU4k=
+Modified: 637885747296868157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-01.yml
+ID: "c9d26f66-d339-4387-8e5e-dd3e6e6051c4"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-01"
+Signature: wXi943aG0r4235ZKV0k5bwdqCl1DXp1qVNZ/SKU1tb4=
+Modified: 637885747296898159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-03.yml
+ID: "e7dd8125-b035-4bfd-97f6-e84917c6bdba"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-03"
+Signature: Id1oYxPic4EPW/WHgxj/LCbLOw1ZaqZEf6tZ1zjUksg=
+Modified: 637885747296948167
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-04.yml
+ID: "979d01f5-5144-4aa9-933f-7994e5e1024a"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-04"
+Signature: lis/9iiTqmczYziGhDcRYGVh/iIsaejoyqzv3QUN5Fk=
+Modified: 637885747296958400
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-05.yml
+ID: "72157e10-774e-4867-98bc-1f0b3ec19b56"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-05"
+Signature: /LcAyTXN9+TEITVKCB1Zz47qQpLeUeaKl4Koh2FqFu0=
+Modified: 637885747296978164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-06.yml
+ID: "6d8ef58a-7d72-40a8-b170-b124d3a5aeb2"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-06"
+Signature: VO5K7l77q1PLdHW/IRrSLAhCkd9q99L/YRdLShl6yIw=
+Modified: 637885747297008408
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-05.yml
+ID: "8689fc05-e6ee-4c93-9f76-01c03c78cd4e"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-05"
+Signature: b7XUzwOi9QiRJ26wfi5Bd9TD1DkcM+MN+gr5k88mWlA=
+Modified: 637885747292978150
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\page-title-bg1.yml
+ID: "429d6015-7e2a-4ada-a6ab-024be624186d"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/page-title-bg1"
+Signature: ndgYjJwSbDorIq6y8KDa8CTJxx3LTHi0s5vNo7pXdsc=
+Modified: 637891720686786606
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-06.yml
+ID: "16d6d584-4a8f-4797-81d3-624f15d89e5d"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-06"
+Signature: aGxqDcK5sKwTfzVx+j5rPrmLchafMXJb6BPWzdhXLF8=
+Modified: 637885747292998157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products.yml
+ID: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/Products
+Signature: QtMeBUPXxZG0ZPuW+lViUUSAyeMTZIMNfQJetjOqFCQ=
+Modified: 637885747292548146
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-07.yml
+ID: "b0909df3-f42a-41ac-a219-1d6a56fd1fdd"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-07"
+Signature: AHAD3ZX/PuBGAhzwk2u05h23qFEEcMb6g4gIQHmUiq8=
+Modified: 637885747293038162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\thumbnails.yml
+ID: "6613e3b7-5ff0-44a0-a91a-df9d72716951"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/thumbnails
+Signature: KOg4sPFXzgQXNn0BVozERRVofaeU8llrS9TCHCug1SQ=
+Modified: 637897877248680940
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-08.yml
+ID: "e504aa06-5024-4db3-990a-3eee6767755e"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-08"
+Signature: 5AuDb4I+dgtO1UJYFf51JqvzhYUINyAEB6KeekdF29w=
+Modified: 637885747293068322
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data\media\files.yml
+ID: "62eaee51-9ce8-5b31-9aa5-9382dee12f2d"
+Parent: "dd37c211-f67c-556f-8bd7-633fa771325a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/data/media/files
+Signature: Rrztz+SWK4c2VVK5kM5Q3wEuSJ5fZj692T83WmOUzb4=
+Modified: 637885747292468157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-09.yml
+ID: "5c742ac7-3714-497b-b6b0-0fc28e1ee1e2"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-09"
+Signature: ohofFHL4E9bUSkilwQpWc01IWHtlW2tQxvdoMVwkngQ=
+Modified: 637885747293098155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\thumbnails\recentnews.yml
+ID: "e76c365b-0de3-4660-aa2e-a8db57735d95"
+Parent: "6613e3b7-5ff0-44a0-a91a-df9d72716951"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/thumbnails/recentnews
+Signature: e0IdPmjNldYidFz9wHGA7Dy4vGZQ0clb9NeOUtGTnEs=
+Modified: 637897877248920946
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-10.yml
+ID: "23064417-8914-4740-93a0-921b418079b1"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-10"
+Signature: 9Wl47DYEJSV8OC2xATlnToXXJLxTUbRWJHt9pZAGJ30=
+Modified: 637885747293128166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-03.yml
+ID: "8fa8ded1-82be-4888-a43e-719c3f7bbfab"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-03"
+Signature: ScPGUVE+QENJlzOGjn3bDMAgTrmtK66LhedLKbrCzWM=
+Modified: 637885747293248164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-01.yml
+ID: "054df973-fcb3-4434-9944-2315f8a68208"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-01"
+Signature: munQ8czCp10fC+aPSh8qIXoIoeoF/QQo4v4YIDKL7ls=
+Modified: 637885747293178163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-03.yml
+ID: "58982b93-a0fc-4e93-90aa-c077c8017c82"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-03"
+Signature: aEmk+jcZWWty2scbWDJoVUSsXFEYHBNFLASnZ2+//28=
+Modified: 637885747295008153
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-02.yml
+ID: "0802a6ab-f3ae-4ab9-96fa-f569deca5678"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-02"
+Signature: CdTGCkl4+ECZxrR+cwD+F/QdlgrZLqC6ldZahxigeE4=
+Modified: 637885747293218149
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-motorsport-7\forza-motorsport-7-06.yml
+ID: "e137be54-22a4-4f4f-8d7c-6bc9133e9f3b"
+Parent: "33b3cdbe-a8ca-42bd-aae3-e5d5c16ef083"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-motorsport-7/forza-motorsport-7-06"
+Signature: O/PCt2iN5+nsz4ryGYl1jtI/TOcx/+gv7svOfGcYlEo=
+Modified: 637885747295098187
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-04.yml
+ID: "c2218092-4f30-4bb8-a6af-fc9f59f3f203"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-04"
+Signature: rLgvUkc5QAknLiPYxZkFXKa7in4JiMQ7WNdL84EsuTs=
+Modified: 637885747293288186
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-09.yml
+ID: "ce707bbf-4288-41f4-9aa6-4cf293b87cb2"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-09"
+Signature: PA0xkmQiZT6nlwrCakpAIojwVRrseiD9XJSRxoLTspI=
+Modified: 637885747297068421
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-05.yml
+ID: "538ab2ba-551b-4ebd-9812-47cdf3d0d47c"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-05"
+Signature: 5GCdq69BF5dZORj+bsmfznve5S5wYvY2bymexYmRxvs=
+Modified: 637885747293328292
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-10.yml
+ID: "8610f27c-ef0b-4694-81dc-26b461430fdc"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-10"
+Signature: uE1VpoD6ClBuOPTqOc27eGa48DquO9VhxbM5Zt/x0s8=
+Modified: 637885747297098144
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-06.yml
+ID: "cdf7984b-f4ad-475c-8870-793330ea74f0"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-06"
+Signature: FDnkeivcZ1Yfpd9BoetLPByl+zCg0C3BzrmeVm6zwvQ=
+Modified: 637885747293368157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-07.yml
+ID: "15bef4cc-c99c-45a3-b751-4f750c992ea8"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-07"
+Signature: lP23VR1J5dF9PzGV910ELWJFUYKDZOHJzkw3m9Bsfgg=
+Modified: 637885747293418170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-08.yml
+ID: "4f734dee-9aa8-48f3-b000-03375f8e89f8"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-08"
+Signature: J2Gk49qPlO0o0HOOYGvmo8S970+UJzl9x8XYGuYnGNk=
+Modified: 637885747293468158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-09.yml
+ID: "5833e079-b32e-48c5-9eb5-41b411f7c23a"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-09"
+Signature: wcje4ooZfkidnsrTQhz+w3KQ7S9dpWPUrar/0Hzm2j8=
+Modified: 637885747293508166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cyberpunk2077\cyberpunk2077-10.yml
+ID: "6b7aff10-f89c-48f8-8379-4d61d540a718"
+Parent: "e86ec29e-93c4-4f1c-aa34-dfb1f3f13e00"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cyberpunk2077/cyberpunk2077-10"
+Signature: K+kj3jDso8PLEISwM8ee6v918Lsf/QPUb9fKyZhEQ48=
+Modified: 637885747293578168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-01.yml
+ID: "6f9f8ce9-153a-461f-abc4-babdeb8905bb"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-01"
+Signature: 4heQzxk3uQScqrqgwKbk1kfTlPsDR2qDRSBlMXdFd54=
+Modified: 637885747293638147
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-06.yml
+ID: "a92f604b-ff90-4366-a971-ca21b6b74d82"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-06"
+Signature: Ji7qzgBk2tXb1X586QlfB4IiAP7epBnj71SHEH+HTbg=
+Modified: 637885747293828168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-07.yml
+ID: "ebd5d8a4-6ba4-4906-80ba-8e18015c1dda"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-07"
+Signature: woiVBvMWz8Ko9F73PhT1XtuHleX1hL+xI5cOPU8dH+g=
+Modified: 637885747293878142
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-08.yml
+ID: "d2c1574f-b5c3-4d43-80be-e8445f25d30b"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-08"
+Signature: 9GX7wV1yDHEGx3RDm5rVtnM8o3JI6cAuFhmnl8MyVj0=
+Modified: 637885747293928155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-09.yml
+ID: "534a1adb-ae9c-4ff2-97b5-23a68e2237ad"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-09"
+Signature: FtZS1fA5SJthxUGnNpqC5Ao21Kz3lDLA4H5aVFkpjcg=
+Modified: 637885747293978287
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-10.yml
+ID: "16aaee64-bb45-4d41-8f42-c6192ed24bcc"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-10"
+Signature: 92rBbtHbKE0m9d/qKsgU2qn/beSj4p/jjcpKeJXdK9c=
+Modified: 637885747294018157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019\f1-2019-01.yml
+ID: "58d00e3e-7d90-48cb-a1ec-2c98999d9ed3"
+Parent: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019/f1-2019-01"
+Signature: lmOSazbUQmWvmafjptEUYcK6LbItNfMZcneGu5nTx6A=
+Modified: 637885747294068148
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data.yml
+ID: "9d5cc0cd-b2db-50e8-86d6-d9ba23daf021"
+Parent: "3e5f8d6b-5603-5ec4-b6cd-1f10ddc743c6"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/data
+Signature: JhCd176Xw/gRjroMhIlQ3m57sAQZ4ngtVVPOok5x3y0=
+Modified: 637885747292448211
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019\f1-2019-02.yml
+ID: "8c378bff-e89d-44af-91c8-8951e54b4415"
+Parent: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019/f1-2019-02"
+Signature: zb+GfzKc5WEhhionVXZbr/MCeao9cxsN11uszaezkIU=
+Modified: 637885747294108209
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients.yml
+ID: "350d55d2-c24a-4f90-ae41-e7c6a942f4a7"
+Parent: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/logos/clients
+Signature: +h5Ink5feTKlJdsALucoPQ3jb7FmPMInQnfhvL3Lh4E=
+Modified: 637885747300078161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\f1-2019\f1-2019-03.yml
+ID: "dd3a43da-e033-4561-beaa-9577901e8ae6"
+Parent: "406f2292-d4a2-4637-9c7e-e6338a931308"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/f1-2019/f1-2019-03"
+Signature: BA03hQNpXUjN12PesL2Hm9QU4vTvkzIGjawKmyJ86jA=
+Modified: 637885747294168214
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\officecore_logo_dark_purple-avenir.yml
+ID: "8a49b4f3-5c4c-4012-b8aa-9f14a1d49fee"
+Parent: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/officecore_logo_dark_purple-avenir"
+Signature: P4Ct9PlkniiWghq+VsZ0YYoVnBAnk7DCj38Hfkg10qY=
+Modified: 637901338298274885
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage\iceage-01.yml
+ID: "c3e134cb-460b-44c4-8aa9-92edcfed1092"
+Parent: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/iceage/iceage-01"
+Signature: +FuNCqf6Nfyg0tTLB5wi18Ke0k2/XEqNohMjxA3xUlM=
+Modified: 637885747295568156
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\microsoft_on.yml
+ID: "62b5f063-69b6-49c6-98cc-5ec1d7757118"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/microsoft_on"
+Signature: siOvOn1G5vi49fKfkrv/4IfodTfB+DlFDtleqkVvIjs=
+Modified: 637885747300908166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage\iceage-02.yml
+ID: "b116e424-7be7-4c93-b31e-fa955ad4f4e1"
+Parent: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/iceage/iceage-02"
+Signature: LkAB1bdptvhAbPD9Wd0+tl7IKi76qyaGIs3IY7eKEh4=
+Modified: 637885747295598165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\pernodricard_on.yml
+ID: "939af829-cbb8-4adf-80af-e853476b262a"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/pernodricard_on"
+Signature: Bntsjq7+T/inolio33InegmKs6oQcST9JKzJ4GGAiP8=
+Modified: 637885747300988163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage\iceage-03.yml
+ID: "1402146c-4b72-4aa6-84f5-121f880f588d"
+Parent: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/iceage/iceage-03"
+Signature: gWDAguKmV5LVREx8rKIZsQZLxFqbFgnBhxbArFAyS6Y=
+Modified: 637885747295628146
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\pfa_on.yml
+ID: "4582373b-4cbe-4f91-a878-8b4da015fbc6"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/pfa_on"
+Signature: r5NRVzppQKQVitr0H41CoOEuLmLWKu6b9ETi5aPwh/w=
+Modified: 637885747300998149
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage\iceage-04.yml
+ID: "a602ed12-1fc8-45aa-80b3-ed6848cf4537"
+Parent: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/iceage/iceage-04"
+Signature: EvBqSH6p+PYX968B6YA1AgAIBvVlWhVh0R5AG5aVY+I=
+Modified: 637885747295658167
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\pizzaexpress_on.yml
+ID: "9060da62-22c9-4cfe-af1f-f0ea3db11c24"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/pizzaexpress_on"
+Signature: Gw+TJt/p//ro2tyamPw/KRSIP+qBnvY/3nah0NGkGcw=
+Modified: 637885747300998149
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage\iceage-05.yml
+ID: "4ee55ca1-6d75-4102-ba7e-10083cb8a5e1"
+Parent: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/iceage/iceage-05"
+Signature: z2ADbfXH33N/PP4sacmSW3GJ0YqoAB/BkDfJXv0Y+TA=
+Modified: 637885747295688145
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\primark_on.yml
+ID: "82dd71b6-4bfd-4441-a88c-3aecc6e9c8f6"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/primark_on"
+Signature: u9/K9Oci2o7m5Um9Y0nSS2mHMtkWi6MgbtrPE+K7jo4=
+Modified: 637885747301008163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\iceage\iceage-06.yml
+ID: "9bc38f1e-2c17-4baf-b6e0-81f7b376a4de"
+Parent: "96f1976c-8f94-4eb2-8230-e78cadd9da95"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/iceage/iceage-06"
+Signature: ChckFaxFJYCw+dqwMPnnRzSWZTTo9MwAZ55xgUBgyC0=
+Modified: 637885747295718183
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\principality_on.yml
+ID: "da8d5a7c-8e9d-4e83-8a34-bd39bcec180e"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/principality_on"
+Signature: 0BqqF84FKjW/EFNAZf1BjgGfuOvoiqnZ0ze/ohyll40=
+Modified: 637885747301018159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-01.yml
+ID: "447e207c-d951-424f-ad6e-666df8b90908"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-01"
+Signature: oDwZMFp20xO0IxAmXLdxMuf+k9DELraqSfq5dn56JMI=
+Modified: 637885747295748480
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\l-p\prsformusic_on.yml
+ID: "4b3332a9-1d37-4aea-b7b6-c70d23af381f"
+Parent: "cffcf2fd-ec79-4c1c-8695-899072339b78"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/clients/l-p/prsformusic_on"
+Signature: /TyMLDswqQsk+I7pBxbcWj3as+G066PINWpBnBzaHIM=
+Modified: 637885747301028175
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-02.yml
+ID: "53271874-08d5-4a20-9036-6c3e19f3d241"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-02"
+Signature: s6HVozkE/f6+ry/Zwl4K4XMdVJVRd93xNKm65iA+YXM=
+Modified: 637885747295778159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-04.yml
+ID: "94fec5e1-c4f6-4957-bcf2-74055eae69bb"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-04"
+Signature: 78ffX1QfUWLLrjvslFJx3iE//VEwq9GeJGdikhNYuGY=
+Modified: 637885747293738148
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-04.yml
+ID: "97b41472-23a1-4630-9d7a-f4177af18eb4"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-04"
+Signature: DS4gWCVH/F1X8CQNUK6J0rFtrC6T3RM+MO/sJBYzFUU=
+Modified: 637885747295828169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-05.yml
+ID: "859e3562-46e4-48d3-af4f-dcdf8fbe48ac"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-05"
+Signature: xmqRsmdix/5yWAhXodFRsPLI1jX8m6iPaBg55YyqIOM=
+Modified: 637885747293788173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-05.yml
+ID: "0621ac0e-7854-4c25-b072-113f164a436a"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-05"
+Signature: NLFzdcN90/zEx9TJvueMnxVvj2xgY/WoIdDqs+8aOvc=
+Modified: 637885747295858553
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\halo-infinite\halo-infinite-01.yml
+ID: "e9b2effa-b46a-40cd-be75-0decc2f2c6be"
+Parent: "465599a2-fd47-4066-98b2-452f930103a2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/halo-infinite/halo-infinite-01"
+Signature: n+/Nz+q4fzgHtzfPpcQgFof3G8dw+y85jWJ8QuN+gCE=
+Modified: 637885747295428153
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-06.yml
+ID: "d7f138e8-8f7f-4bb5-99a8-4b41cec6430b"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-06"
+Signature: gAOcr6A0SRMBaow5485W/eFIq43vbtFutFB/H4Lgm4A=
+Modified: 637885747295888159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\halo-infinite\halo-infinite-02.yml
+ID: "2b928fce-0d40-42be-87a5-5f5474da661b"
+Parent: "465599a2-fd47-4066-98b2-452f930103a2"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/halo-infinite/halo-infinite-02"
+Signature: aUeErPRX1CG1uoIlBt8xx/VOOux6FWggDHGyxKcsDnc=
+Modified: 637885747295528149
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-07.yml
+ID: "9d8203f9-9fd0-45cd-8f68-088e1a705ff0"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-07"
+Signature: YPl1goQJd2r1iDXKEo5DqsFOw4AKtVB0fimhTCfcHlk=
+Modified: 637885747295908151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-02.yml
+ID: "3536fae0-cc2b-4d59-98b6-cb66b0f02913"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-02"
+Signature: rhsDN+gOavl0dFZvXdyoDple+11aVUwopW8wSKaCN0Y=
+Modified: 637885747296568417
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\madden20\madden20-08.yml
+ID: "2eb7982c-8399-4b78-a602-dbcedc454f4b"
+Parent: "35ee018b-baab-4117-a42d-01f632cb3841"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/madden20/madden20-08"
+Signature: hvcd1iPI/80zSkENIITkP19N0w+LR+0Sinddj9gVJyk=
+Modified: 637885747295938178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\nba2k20\nba2k20-03.yml
+ID: "620d2b76-0903-4af0-b246-d939ea8e4d0b"
+Parent: "16282290-bf89-4c86-9e66-b7ea4252d572"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/nba2k20/nba2k20-03"
+Signature: /PMPD9lE5jaDMo7/tUZs0pTX2nApUhfvtGYsLrzmOl4=
+Modified: 637885747296588168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-01.yml
+ID: "62478ea4-131e-4356-91de-7c5db0f6dcdb"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-01"
+Signature: gT+yfWlJAswAmifJlbmnnQQxOxJX+xLF2yg1Y/KeAZU=
+Modified: 637885747295978138
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-02.yml
+ID: "9ac02792-d1c2-46a2-a6f4-da937d9d875c"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-02"
+Signature: xFYEb+rtAclLK2S0cX4zx+oJoLfuGAZunxunWVrUcHU=
+Modified: 637885747296018142
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-03.yml
+ID: "8f413e6d-cc3f-412f-bd53-344374e4db67"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-03"
+Signature: Qy9qxpwFH3bZx1+PnKks4E/8qDzBj1TpEaDVyLeWzkM=
+Modified: 637885747296048137
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-07.yml
+ID: "1c2f3bf4-1677-4767-8daf-a1faa219c674"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-07"
+Signature: dRvfJBIo5ilaYCCs3axJrmHUDdXxSiD8CyMt2f0oZT8=
+Modified: 637885747296218571
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-01.yml
+ID: "778da228-8ef8-4ff7-b06d-845c5690e243"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-01"
+Signature: PdaQEFFI1nHIyDZ2dl2VGtjwpdlv/kz02zngI+XLh2o=
+Modified: 637885747296258164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-02.yml
+ID: "6f1e568a-0754-4c13-9abc-dba46ba39a4f"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-02"
+Signature: dhJvxPyKjhVYACzT1MUyxUwBBab3yKSMXE9jIUhy2gs=
+Modified: 637885747296288543
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-03.yml
+ID: "cf62f7af-2b8b-4765-9340-98f76b61d20a"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-03"
+Signature: nS8HeT3gcBK0iXdMXqdrT1CEsv4tvpIFGA0//I6NCBM=
+Modified: 637885747296318493
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-04.yml
+ID: "d2617b40-0a20-481b-bc29-ffa19a42905b"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-04"
+Signature: 93TqOOOaV/Mwgac2kSiB5t0MZW5s/X98sghj38SUNpk=
+Modified: 637885747296338164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-05.yml
+ID: "6208465f-89ce-4d11-88d3-602c47a4425a"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-05"
+Signature: 3OeC9g1GYEFpNJ5AA8ED2Scxj+Noy1ya2eozm3+nxx0=
+Modified: 637885747296368144
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-06.yml
+ID: "499b15c3-500a-4ebf-8db0-4af7ecee02eb"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-06"
+Signature: mi/PYQgvfc6b4semy1BqHZJb7C1GTc2vybvwX/fg3Cs=
+Modified: 637885747296388426
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-07.yml
+ID: "22eee854-4d90-4dc6-9437-1d7f62e7d9ba"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-07"
+Signature: kEIE+zClaHHpwpi3e9bX3Yzu7knusGpm1EPK46Orzb8=
+Modified: 637885747296428156
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-03.yml
+ID: "265b9e79-a2b5-4007-8fbf-ac3569f44655"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-03"
+Signature: 3ayQ1dH/iZpjvgtnFkeZNGW2QzHojSwnpKoRGXPl2us=
+Modified: 637885747297208168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-04.yml
+ID: "4e7463a6-4c19-4fbd-a191-c0efec3010a2"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-04"
+Signature: olsp5VQC+TnJ9wWlMToKltmzJ8PTTrj47yTRMv3gk8Q=
+Modified: 637885747297248190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-05.yml
+ID: "60af7552-9484-4688-a36c-4978be590d32"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-05"
+Signature: YEGDgK4qyUhHL9eRr+Db/L7NoRkA3QOoC7VKglT3rj8=
+Modified: 637885747297288169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-06.yml
+ID: "1c217274-98c0-4fb6-b5a2-421bcc0fecf4"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-06"
+Signature: 9FDfELD/GS/RPIJeqCuTM5tVOMU16NlMi1Niv/lHv48=
+Modified: 637885747297328166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-07.yml
+ID: "1f01d025-d7da-405a-a62c-0cb68de928c0"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-07"
+Signature: bstzov/J7KAymlqpwW1jtJl/43PpY+dChmYHlXXUqOI=
+Modified: 637885747297368152
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-08.yml
+ID: "ed9b5141-4920-4178-90c8-56fdf7c42fa4"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-08"
+Signature: uEVOaGtTGPIXRbvrNZMsquBSESpRAw6CU6xDicq/8DU=
+Modified: 637885747297408197
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-09.yml
+ID: "83dca6a8-ca6b-4e1c-90a7-843e3850f84d"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-09"
+Signature: 9kUfTcpAGdfquWHFW80V5BawcW2WDZ0oZ/5DdkqH1+E=
+Modified: 637885747297458226
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-10.yml
+ID: "e6c311d9-a5a0-4446-b290-a6154228d55f"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-10"
+Signature: RcM2pFKAGUIoocEb8w464Mlt6OO3ZLRfIlRTOT+MwCg=
+Modified: 637885747297488163
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\officecore_logo_dark_teal-avenir.yml
+ID: "630edb70-f5a8-4b03-b2bb-b3dbb8d98a75"
+Parent: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/logos/officecore_logo_dark_teal-avenir"
+Signature: q4XcnZVjjd9tivGTqSNfR2zogqu7faRw/PmI+qDswSQ=
+Modified: 637901338298431100
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos.yml
+ID: "f3d38e5c-c657-4801-b40e-f3c74727b30d"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/officecore/images/logos
+Signature: mU03T7YqZ2BU5yfAiEpxlEAZHg9TRlo3/yqiclwH03I=
+Modified: 637885747300068166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_CustomerDataMgmt_mediumhero_desktop.yml
+ID: "a7c35afc-19fa-47fc-a7ef-4dd89f9ab7f5"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_CustomerDataMgmt_mediumhero_desktop
+Signature: CGCLCFw9CQEfz7Caa4dPsGQGz4jwoiilUenh9euvjds=
+Modified: 637885747292598168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\woman2.yml
+ID: "0bcf50dd-30a2-4114-aa6f-05cf9ca979b4"
+Parent: "17c22f67-60bc-47bd-801c-49e9e7ce3ef5"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/woman2
+Signature: 8BdG4FXg6NLv8NVTNuKVG5O8qk187qsbHtjML31OiDY=
+Modified: 637891176472307847
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\BusinessGoals_OrderMgmt_mediumhero_desktop.yml
+ID: "729a80aa-5dad-494e-b0b5-f4f040b4f3ad"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/Products/BusinessGoals_OrderMgmt_mediumhero_desktop
+Signature: ugfv83XuSgmMIL2LgAs3t7dj9kOov5qbXkaT7cKBKaw=
+Modified: 637885747292688138
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\cod-mw\cod-mw-03.yml
+ID: "ab7a8789-6d61-408e-a79a-302f10dd90b4"
+Parent: "d6770781-5292-4cb3-a2fa-4f5f1592b704"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/cod-mw/cod-mw-03"
+Signature: efzYfWyYm5sdRcXOdbCF38ImW6taxQemhkx95WuCHho=
+Modified: 637885747292918150
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Content.yml
+ID: "90acfcdf-4bba-4278-bd9a-6f8cdb290310"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/Products/Content
+Signature: TQi6w444IyzuELRa/3epTs2m8YuWwQTgkUgswk9ZeAU=
+Modified: 637885747292778196
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-07.yml
+ID: "584913b0-4b05-47e8-a4bc-1de77df84f16"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-07"
+Signature: 9tbBTCZqUDxyCqXInubYBNZ2d+yAZhuuIhIFSvdZJLE=
+Modified: 637885747294778170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Experience.yml
+ID: "b78c1df3-8ef6-4296-a32c-48f91aba8fa5"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/officecore/images/Products/Experience
+Signature: zbE0XaAH0cvNmW4hdDrj141T6caNm+xAXpJalL/CaIU=
+Modified: 637885747292798156
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\forza-horizon-4\forza-horizon-4-10.yml
+ID: "f9df80b4-6833-4b88-b21b-ee324b5fc352"
+Parent: "43f81f72-c427-48fe-a081-4f1fd52a8e61"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/forza-horizon-4/forza-horizon-4-10"
+Signature: Y2dADu0XJu8Lt4jaJ0Dksm95aJT3rLP7RPiWrrtKY2Q=
+Modified: 637885747294918155
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\series-s-console-03.yml
+ID: "199ac34c-15ba-4c7c-acfc-4b886f84afbb"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/officecore/images/Products/series-s-console-03"
+Signature: 2Zf456/+/wPuWyoTb9VeEUQxgmyaVkKGXlaSxVtjl0I=
+Modified: 637885747299968151
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-04.yml
+ID: "f9d02098-8e48-4f61-8d8d-93494bb192b5"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-04"
+Signature: H0E1+qQFpsrBB2p5dZ4YiLKTJIP55DnwygNeWZMrU6A=
+Modified: 637885747296078139
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\surface-accessories-01.yml
+ID: "df7664f8-4092-4214-9f69-05db8fcbca41"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/surface-accessories-01"
+Signature: ZqL7wS06DvCJnOCeeOuxWMfYmeiLzvrqS5CTzZXZqbk=
+Modified: 637885747299998225
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\minecraft-dungeons\minecraft-dungeons-06.yml
+ID: "78d41345-ce91-4c7b-a875-4b1d47260609"
+Parent: "bfd60939-5dea-42ae-b6b8-84ae57765825"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/minecraft-dungeons/minecraft-dungeons-06"
+Signature: IcD7HHx1yULBdi9GL7BMez+fl/oRGLJ5pDhTXktcBKk=
+Modified: 637885747296188164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\surfacepro-x.yml
+ID: "31b522c1-251c-43f0-a684-4a71c9177a1e"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/surfacepro-x"
+Signature: GuaAMUVuNP2TktD/0FLG6K3dC8yezraeqXce6hNXjZM=
+Modified: 637885747300048256
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-02.yml
+ID: "e78d7cef-fa1e-4ced-a4a9-21258e5e3de1"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-02"
+Signature: Tuoldmha63rshvJW9V2asM60fhnTY9gop4YCGEvQ6yM=
+Modified: 637885747296928160
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox.yml
+ID: "89f78b82-4010-485b-b444-10336e5716e1"
+Parent: "caa6d827-84ca-4d20-8f1b-3524572c648e"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/media library/officecore/images/Products/Xbox
+Signature: FtNzaFQZFzVZ9NdtiOASBfMPUVdFOOGshaDwJT4Nef0=
+Modified: 637885747292818169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-07.yml
+ID: "b88ae9d3-be99-409f-8182-b063455b0b22"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-07"
+Signature: 1B/O1CQC7ALPgEnUxIjx85GfWi7kNKLUxUVpaARIiC4=
+Modified: 637885747297028166
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\thumbnails\googlemaps.yml
+ID: "17247948-1697-41c5-8d01-9bda12c2dccf"
+Parent: "6613e3b7-5ff0-44a0-a91a-df9d72716951"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/images/thumbnails/googlemaps
+Signature: eMKI9Ox3nsoNUttzvJDOxyEQUMPuSVu6avL3qAnsRkc=
+Modified: 637897877248790941
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\resident-evil-3\resident-evil-3-08.yml
+ID: "09713ffc-38f4-401e-a370-005f5d0f7454"
+Parent: "57dce900-7163-4a76-865b-48854212a9a4"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/resident-evil-3/resident-evil-3-08"
+Signature: ILnWl2SlJ1xxUrwsoSGNO2O6WOLi48h/lBmMuK59wCY=
+Modified: 637885747297048497
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data\media\files\jss.yml
+ID: "d07c10cc-b927-589e-b1db-7fd9c7b4e774"
+Parent: "62eaee51-9ce8-5b31-9aa5-9382dee12f2d"
+Template: "0603f166-35b8-469f-8123-e8d87bedc171"
+Path: /sitecore/media library/officecore/data/media/files/jss
+Signature: JmJdcTbmsf18S7RBUb7UdzIgqr9yeAnwn5MPYsIaNBE=
+Modified: 637885747292498164
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-01.yml
+ID: "b16d062f-61d0-4052-a17a-a1f70b11f2d5"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-01"
+Signature: KsiplmnRRcrbQTs+eJdNU48+qQtHFmmaSZqGkqmTmE8=
+Modified: 637885747297128177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\data\media\img\jss_logo.yml
+ID: "ad3d4a75-6450-50c9-aa22-efa9d143e067"
+Parent: "62cdf0ab-15c9-5daa-9879-442e42548685"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/officecore/data/media/img/jss_logo
+Signature: NgTxcBzCfTgN4nnBQjjA82mt+pR2cZU1EmWx2kT/jL4=
+Modified: 637885747292518158
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-02.yml
+ID: "bcb59d25-d339-48ba-bda7-9d27e247fef1"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-02"
+Signature: IY9Jh1ydaN5sQVfXePy6ICB/LeJ/1y5q69kfsNJZZws=
+Modified: 637885747297168173
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\a-f.yml
+ID: "97ba0483-8752-4442-ace3-2e3abf650213"
+Parent: "350d55d2-c24a-4f90-ae41-e7c6a942f4a7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/logos/clients/a-f"
+Signature: 3aIf+dbDUxY12zCxyxOoF+1JybEEvRdN4OJxI8nM+bQ=
+Modified: 637885747300098162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\starwars-jedi-fallen-order\starwars-jedi-fallen-order-11.yml
+ID: "37b862d5-40bc-4a46-a0ca-566174e766a2"
+Parent: "306faec1-dcb2-409a-a5da-363426a491d6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/starwars-jedi-fallen-order/starwars-jedi-fallen-order-11"
+Signature: QXZmU6Vjmuy9hOJCtfAYEFMa35yJhQv6s+OjEHosOHU=
+Modified: 637885747297518176
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\logos\clients\g-k.yml
+ID: "6d2d474a-8eb9-4752-871f-f9d622e386a7"
+Parent: "350d55d2-c24a-4f90-ae41-e7c6a942f4a7"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/officecore/images/logos/clients/g-k"
+Signature: N49iMJfrA/pAqvr6EPGZ1AGy27VTq7ngrAzh4Zuh+Mw=
+Modified: 637885747300628197
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-01.yml
+ID: "d7af583b-acb4-4445-a41e-4df9979ef897"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-01"
+Signature: BBdhOyFyoWQXvfUNVOEIHbfkfnn35QZvKuCrD4FZZ78=
+Modified: 637885747297568170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-02.yml
+ID: "8c2f0541-15d0-47a1-be25-b7d2d24e7713"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-02"
+Signature: sYrPkXMOmz9sV+rA3noiaiL8UBE4P26c6sEIFE/0QCw=
+Modified: 637885747293668144
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-04.yml
+ID: "2300dbd7-034a-4857-bf89-693141981559"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-04"
+Signature: Sjn9hVCDz769/0FWKg5e3BJzf72Pl2x9Cmb9rSmCee4=
+Modified: 637885747297668159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\doom-eternal\doom-eternal-03.yml
+ID: "e4d5a9c2-adab-45be-9f46-cabd482b30d7"
+Parent: "a173c0d9-b129-4f65-bd0b-cb08174ac7dd"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/doom-eternal/doom-eternal-03"
+Signature: M634MO/SYFG/Cx1PjO+1Wy3Gb+66tquJ5If+SsUZba4=
+Modified: 637885747293698142
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-05.yml
+ID: "d34c4684-61be-4e22-ac1c-a99bac747e8e"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-05"
+Signature: pFi4qjMz3xm++5t7MhLEOIHMlREjVWReMW2ouMMHgAI=
+Modified: 637885747297708183
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-02.yml
+ID: "65ae48c6-c543-4d53-98c7-eed93ba7ff60"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-02"
+Signature: 2lQUym9P2AJD3hYKcMvBwPAVTKqfnMKXG5zYQkoekjQ=
+Modified: 637885747295218162
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-08.yml
+ID: "07583506-5403-4331-80ef-4d0e02f4e6d5"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-08"
+Signature: JzndhvzAH47nTdTqudiWcoERU5EzXT5/+gLVcabc9+I=
+Modified: 637885747297818177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\ghostrecon-breakpoint\ghostrecon-breakpoint-03.yml
+ID: "653afb4d-dbc4-4c8d-8415-d0ce188832fc"
+Parent: "11c8b79b-095c-40c5-9449-f599d33a1018"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/ghostrecon-breakpoint/ghostrecon-breakpoint-03"
+Signature: OM6ZxDZBAPWiNMV8CT7lBaxkC/xw81Ol17QofowAoH4=
+Modified: 637885747295238139
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-09.yml
+ID: "e0abe046-07fa-4ebb-ab9d-4f0e2b9d85c7"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-09"
+Signature: qIrId8nnERxLkYZF3QRy55E34XHYxDHjVQbvvvdgdnw=
+Modified: 637885747297848159
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-08.yml
+ID: "d6e18275-afde-499f-9440-01e50803f720"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-08"
+Signature: KcXMmBIBHwSyQItCwPLX7LxGH0pNTIvxbq/bgUqY/Kg=
+Modified: 637885747296458207
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\motogp19\motogp19-09.yml
+ID: "ebf442b5-0bda-4fb0-b970-4c959fb26982"
+Parent: "e9086425-6a02-4c5e-b5f0-651d4303b74a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/motogp19/motogp19-09"
+Signature: 0o1LhIgjOZL67u9VLi6/EFH2aN02m8Ube1VVXgXWIgk=
+Modified: 637885747296488413
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-02.yml
+ID: "d0476129-57b2-41a0-8b94-7b7399c4cf99"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-02"
+Signature: BdVwqgYN1Pl15dPFsi0ks5KY1fIWc40YwMUk53x7tWg=
+Modified: 637885747297608190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-03.yml
+ID: "79087cfa-9eb0-4744-9135-436ae3a04555"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-03"
+Signature: 72+RaeFhw8fQyWB5OryKRSZBJorK0EFrGVHm7pK4KIQ=
+Modified: 637885747297638169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-06.yml
+ID: "489db712-e8db-4ef1-9c06-60d9ccdc3c84"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-06"
+Signature: lFbCN4s4OIi4HP33wZw9fbQ9YX6I9cKr19SQL3uGaxo=
+Modified: 637885747297738172
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-07.yml
+ID: "991726a8-67da-4b34-81a6-71532409d6cc"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-07"
+Signature: Hysq5cxqcogvGoLafx04jcArGvyaQjydeoAPf4HtyV4=
+Modified: 637885747297768178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\the-division-2\the-division-2-10.yml
+ID: "edd33077-00ae-475b-a423-0c5eff89b76f"
+Parent: "ec76551a-de0c-4a8b-94a2-9a47b3ac6189"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/the-division-2/the-division-2-10"
+Signature: 4x/tzoNlCiUmze33hBvmXGRDbA5SjZ/ANeFxaYhU5FU=
+Modified: 637885747297878157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-01.yml
+ID: "34183711-aad1-4d20-a7ef-fd8d3dd1686a"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-01"
+Signature: XkLBlUeg/klPA2eWS/IZQOODZyYldwjKOiXCtIXvzGY=
+Modified: 637885747297918161
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-02.yml
+ID: "31dbf22a-16bb-408d-bb55-6e6cf94c6c20"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-02"
+Signature: Al6FZ3ZbfXg2PoDX2jhDPXibz9J0dmwj+E2ldImudvc=
+Modified: 637885747297958156
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-03.yml
+ID: "2c840cb9-e6f8-4c2c-8c2b-b8b1bc53862a"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-03"
+Signature: 2MlFIwZc9sFwcgvlyl0AZ0XHrPwdqezfz1amlzUeZtw=
+Modified: 637885747297978157
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-04.yml
+ID: "9eb6980c-3b39-4c99-af19-ae8c6040474f"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-04"
+Signature: DHHT3gFTETzyYcREEzetts6l3JdkQHmmLtt/+MbaDTE=
+Modified: 637885747298008165
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-05.yml
+ID: "1797d6b4-731f-4f51-9f3d-7d4b8299c30a"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-05"
+Signature: glGWiINMHHvzdzmdNAAdYUMep5QtKYQeYSWm4AVf9gA=
+Modified: 637885747298038170
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-06.yml
+ID: "67a7bed5-18af-44ab-8541-9b0016f154f0"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-06"
+Signature: hJHRrjDd1MdE9oUJXP7trm4z5XWG/WTv0D0D5KfKqsI=
+Modified: 637885747298068211
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\media\officecore\images\Products\Xbox\games\truckdriver\truckdriver-07.yml
+ID: "c0f9942e-59ea-49ca-91c2-cb627a7c5ca1"
+Parent: "bb02c8bb-8ee4-41b4-b553-29e46c3b0e49"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/officecore/images/Products/Xbox/games/truckdriver/truckdriver-07"
+Signature: Z4wpbVI+9ThZ1Isss2t6UkeSTTHBG8ubWjb3NUkNceU=
+Modified: 637885747298098169

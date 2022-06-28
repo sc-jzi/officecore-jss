@@ -1,0 +1,79 @@
+﻿---
+ID: "25d8b619-353d-4066-8635-915b3c9bd8c8"
+Parent: "0efa2d5d-9d21-583c-bb62-b802b3146d1f"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/officecore/RecentNewsSidebar
+SharedFields:
+- ID: "003a72cd-4cd6-4392-9862-41d4159929cd"
+  Hint: Data source
+  Value: 
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: RecentNewsSidebar
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query NewsItemQuery ($language: String!){
+      item(path: "{C25726DC-22E4-505C-A470-8191122952BE}", language: $language) {
+        children (first:5) {
+          results{
+            pageTitle:field(name: "pageTitle") {
+              ... on TextField {
+                value
+              }
+            }
+            Intro:field(name: "Intro") {
+              ... on RichTextField {
+                value
+              }
+            }
+            Date:field(name: "Date") {
+              ... on DateField {
+                value
+              }
+            }
+            image:field(name: "Image") {
+              ... on ImageField {
+                jsonValue
+              }
+            }
+            url {
+              path
+            }
+          }
+        }
+      }
+    }
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E76C365B-0DE3-4660-AA2E-A8DB57735D95}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220526T152933Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc043024-94c5-4924-896d-a4cf28955c5c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220602T172410Z

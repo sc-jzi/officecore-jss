@@ -1,0 +1,45 @@
+﻿---
+ID: "649c4545-e5a7-45df-a04a-ae1fd0ed123b"
+Parent: "6829dc49-53a1-4db0-a39a-4f3fee32fac3"
+Template: "5b49c1ab-d5a7-49fc-bfac-cfca01df140c"
+Path: /sitecore/content/officecore/Content/Forms/Newsletter Signup
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0cd856fe-a29d-47c5-bf38-74842cc00b20"
+      Hint: Subtitle
+      Value: Test out the Machine Learning features for 14 days, no credit card required.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220525T223726Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f2a9346-1392-4d8b-83f0-89a3ab2025dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c24c19da-a579-4a04-a865-8ccef8fed0c4"
+      Hint: FormLink
+      Value: |
+        <div data-mooform-id="7770f2f1-25ca-4ef9-8764-9d4f92973fce" ></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220525T225306Z
+    - ID: "e62baa77-1620-426c-a5cf-b81e3c215d39"
+      Hint: Image
+      Value: |
+        <image mediaid="{0BCF50DD-30A2-4114-AA6F-05CF9CA979B4}" />
+    - ID: "fdf5cc7d-3c82-4bc5-99cc-1eadb4ca51d3"
+      Hint: Title
+      Value: Start your free trial

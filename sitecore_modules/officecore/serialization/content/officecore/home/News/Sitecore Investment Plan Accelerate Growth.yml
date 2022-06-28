@@ -1,0 +1,82 @@
+﻿---
+ID: "1a8b66ca-32eb-4463-ba14-2e967e1593c5"
+Parent: "c25726dc-22e4-505c-a470-8191122952be"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/content/officecore/home/News/Sitecore Investment Plan Accelerate Growth
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value: Sitecore Embarks on Investment Plan to Accelerate Growth
+    - ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+      Hint: Date
+      Value: 20210118T050000Z
+    - ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+      Hint: Text
+      Value: |
+        <p><span><strong>San Francisco, Jan. 19, 2021</strong>&nbsp;</span>&ndash; Sitecore&reg; the global leader in digital experience management software, announced today that it has secured backing for a large-scale growth plan fueled by $1.2 billion in investment. This massive investment, the largest-ever capital investment in the martech space, comes less than five months after Steve Tzikakis joined the digital experience delivery leader as CEO.<br />
+        <br />
+        Sitecore is positioned for growth, achieving record revenues over the last three quarters. According to data from McKinsey,1 the industry jumped five years forward in consumer and business digital adoption in a matter of just eight weeks due to the shift in demand for digital experience solutions caused by the pandemic.<br />
+        <br />
+        &ldquo;An investment of this magnitude in our industry is unprecedented,&rdquo; said Steve Tzikakis, CEO, Sitecore. &ldquo;As companies and consumers search for more seamless ways to communicate, co-ordinate and collaborate during this momentous period, Sitecore&rsquo;s investment will supercharge product innovation in order to better enable deeper and more engaging experiences across the entire customer journey.&rdquo;<br />
+        <br />
+        &ldquo;Sitecore provides a fantastic platform and is an invaluable partner for the global Formica organization, starting from our website redesign project, which began in 2018,&rdquo; said Amy Fowles Gath, vice president of marketing, Formica. &ldquo;Since then, we launched an enhanced website and e-commerce strategy leveraging Sitecore&rsquo;s platform, which allowed us to provide flexible, digital options for experiencing our laminates &ndash; even during a pandemic. We look forward to seeing what&rsquo;s next in this new phase of growth for Sitecore, knowing it will help us continue to deliver engaging experiences for our customers.&rdquo;<br />
+        <br />
+        Sitecore&rsquo;s investment plan arrives as the company celebrates its 20th anniversary this year. Founded in 2001, the market-leading digital experience solutions provider works with more than a third of the Fortune 100 and close to half of the S&amp;P Global 100 and Dow Jones Global Titans. Sitecore also supports three of the top 10 retailers in the world, 16 of the 18 largest financial brands, half of the largest healthcare groups, and six of the 10 largest car manufacturers.<br />
+        <br />
+        <span>1</span>The COVID-19 recovery will be digital: A plan for the first 90 days, McKinsey Digital, May 14, 2020</p>
+        <p><span><strong>About Sitecore</strong></span><br />
+        Sitecore delivers a digital experience platform that empowers the world's smartest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the only company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Leading companies, including American Express, ASOS, Kimberly-Clark, L'Or&eacute;al, and Volvo Cars, rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.</p>
+        <p><span><strong>Contact</strong></span><br />
+        Shannon Lyman<br />
+        Senior Director, Communications<br />
+        shannon.lyman@sitecore.com</p>
+        <p>Sitecore, Sitecore Experience Platform, Sitecore Experience Commerce, and Sitecore Content Hub are either trademarks or registered trademarks of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names or trademarks belong to their respective holders.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T135905Z
+    - ID: "37255cc1-ef10-43f9-8272-222308299015"
+      Hint: Image
+      Value: |
+        <image mediaid="{19283BB7-2111-4A1E-9507-A80873D063A4}" ></image>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+      Hint: Title
+      Value: Sitecore Embarks on Investment Plan to Accelerate Growth
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c36cfb85-5b49-482f-ba6e-9bc5eaff6794"
+    - ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{F2AD846D-4CC5-4807-B27E-A44436F131C4}" />
+    - ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+      Hint: Intro
+      Value: "Largest-ever capital investment in the martech space will be used to fuel product innovation, more than double go-to-market presence, expand geographic footprint and enhance global brand"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220526T161309Z

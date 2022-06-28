@@ -1,0 +1,44 @@
+﻿---
+ID: "c3caaf53-97bc-4396-981a-db03d22dc394"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "2a05e901-c2a0-422c-baea-13bb2749e93c"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/List Items Content Resolver
+SharedFields:
+- ID: "13fe0672-ff55-4fae-a8a7-2e6b1ba82415"
+  Hint: ItemSelectorQuery
+  Value: ./*
+- ID: "48ab7701-01fa-4190-a4f0-35f913736f1c"
+  Hint: Type
+  Value: Officecore.LayoutService.RenderingContentsResolver.CustomRenderingContentsResolver, Officecore
+- ID: "9e1ee725-78ae-4012-b592-570d9ba69777"
+  Hint: IncludeServerUrlInMediaUrls
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T190916Z
+    - ID: "4cf855a8-abd5-4939-8eb2-07d875e01c3f"
+      Hint: RandomizeResults
+      Value: 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c155fb15-1e4d-41ad-8464-b09c6104c785"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220318T204549Z

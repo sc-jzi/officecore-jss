@@ -1,0 +1,39 @@
+﻿---
+ID: "d67c4e4d-02a6-432c-a4c4-16c64fbb93e4"
+Parent: "e7d08c17-2935-47e7-a187-e9c0a213ce2f"
+Template: "1ea77599-a200-48f1-a9c0-ecf07600ebff"
+Path: /sitecore/content/officecore/Content/Menus/Header/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1baf4e3f-0d37-4857-be73-8558fa109b07"
+      Hint: LightLogo
+      Value: |
+        <image mediaid="{D9FE6471-DB6C-4805-B7C7-B8789819C21B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T231855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e332919c-0e32-4d4a-be4f-8841dd39d3ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220606T172544Z
+    - ID: "fe585dda-5e06-454f-a7fc-09e4518b1139"
+      Hint: DarkLogo
+      Value: |
+        <image mediaid="{630EDB70-F5A8-4B03-B2BB-B3DBB8D98A75}" />

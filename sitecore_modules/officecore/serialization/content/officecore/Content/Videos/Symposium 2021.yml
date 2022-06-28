@@ -1,0 +1,44 @@
+﻿---
+ID: "2cd57a9e-dde7-4a7d-8bc2-97afccc0ed83"
+Parent: "19f96636-b17c-4cd1-85de-4b217b4af22f"
+Template: "31c83f7a-4bc9-4ca6-b91b-3fc13949bbea"
+Path: /sitecore/content/officecore/Content/Videos/Symposium 2021
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220525T230502Z
+    - ID: "499c3fd3-2495-4dde-abbd-6590c0a035bf"
+      Hint: Subtitle
+      Value: Sitecore Chief Product Officer Dave O'Flanagan provided a thorough rundown of all the exciting products Sitecore will be introducing in the near future during his keynote at Sitecore Symposium 2021, as well as how we'll be delivering on the promise of a truly composable DXP.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "67060ce1-38af-4925-a97f-b5ba02814de7"
+      Hint: VideoId
+      Value: mS8tOq95i5g
+    - ID: "76bcefa2-dfcc-4fd0-bc5e-19ac896c4295"
+      Hint: Title
+      Value: Check out the latest from Sitecore Symposium 2021
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea093329-8814-4ba9-92a5-14a5a291271d"
+    - ID: "b00a1357-4d7d-4865-af22-47a262d7a32b"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="{8F271B55-6E6D-4AD9-8942-C7AB390269B1}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220525T230815Z

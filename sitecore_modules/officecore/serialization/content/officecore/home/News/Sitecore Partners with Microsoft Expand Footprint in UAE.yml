@@ -1,0 +1,89 @@
+﻿---
+ID: "1cfbcc78-e861-49e6-8b19-0be3fe95267c"
+Parent: "c25726dc-22e4-505c-a470-8191122952be"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/content/officecore/home/News/Sitecore Partners with Microsoft Expand Footprint in UAE
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value: Sitecore Partners with Microsoft to Expand Digital Experience Platform Footprint in the UAE
+    - ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+      Hint: Date
+      Value: 20210105T050000Z
+    - ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+      Hint: Text
+      Value: |
+        <p><span><strong>Dubai, United Arab Emirates &ndash; 06 January 2021</strong></span>&nbsp;&ndash; Sitecore&reg;the global leader in digital experience and content management software, today announced the availability of its market-leading digital experience solutions via Sitecore Managed Cloud services from the Microsoft Middle East Cloud regions in the UAE. Sitecore customers in the region can now tap into the power of cloud computing and deploy Sitecore Experience Platform&trade; and Sitecore Experience Commerce&reg; without the complexity of managing infrastructure and application stacks themselves.<br />
+        <br />
+        Public and private-sector organizations across the Middle East are rapidly shifting customer, employee, and citizen services from in-person and manual processes to more flexible and efficient cloud-based platforms. Sid Nag, research vice president at Gartner, said that, &ldquo;The move to digital business by organizations is driving cloud spend, where cloud is a key enabler and the platform that supports digital technologies.&rdquo; According to Gartner, public cloud services revenues in the Middle East and North Africa (MENA) forecast to total USD 3.5 billion in 2021.1 The global COVID-19 pandemic reinforces the critical importance of business agility and scalability, inspiring organizations to accelerate their move to the cloud to take advantage of cost optimization and business continuity benefits.<br />
+        <br />
+        &ldquo;The UAE is an incredibly important market for Sitecore, and offering our Digital Experience Solutions locally is a critical step in providing reliable and flexible solutions for our customers here,&rdquo; said Steve Tzikakis, CEO, Sitecore. &ldquo;We are already seeing strong interest in the multitude of benefits this new offering will quickly bring customers with the support of our strong partnership with Microsoft.&rdquo;<br />
+        <br />
+        &ldquo;The new normal has given customer engagement a whole new meaning for every business, and thus the case of digital transformation has never been more urgent,&rdquo; said Samer Abu-Ltaif, President, Microsoft Middle East and Africa. &ldquo;I am excited about our partnership with Sitecore which expands into this part of the region, as we continue to empower our customers in building new and improved digital experiences. With Sitecore Managed Cloud available through our Middle East datacenters, UAE organizations from across all industries can seamlessly scale to the Microsoft trusted cloud with agility, while building more business resilience and engage customers in entirely new ways.&rdquo;<br />
+        <br />
+        Sitecore&rsquo;s Managed Cloud offering delivers customers flexibility and helps optimize budgets for businesses, providing access to infrastructure resources whenever and wherever they are needed. Sitecore&rsquo;s offerings and presence in the UAE include local support for Sitecore Experience Platform (XP), which reduces the complexity of delivering personalized customer experiences across any channel, at every stage of the customer journey. Sitecore XP combines omnichannel content delivery, customer intelligence, AI-driven analytics and personalization, and marketing automation tools to enable marketers to create highly relevant digital experiences that nurture customers before, during, and after a transaction. These capabilities can also be augmented with Sitecore Experience Commerce.<br />
+        <br />
+        In addition, Sitecore XP is seamlessly integrated with Sitecore Content Hub&trade;, a SaaS-delivered platform that supports content strategy, planning, creation, collaboration, and management. Combined, Sitecore offers the industry&rsquo;s most versatile digital experience platform (DXP), giving marketers the power to break down silos and optimize the creation and delivery of personalized experiences that build loyal, lifetime customer relationships.<br />
+        <br />
+        One leading global customer based in the UAE that is digitally transforming with Sitecore is Kerzner International, the company behind the iconic Atlantis, The Palm resort and the ultra-luxury One&amp;Only resorts. Using Sitecore, Kerzner developed a multi-site and multi-language solution with personalized guest content, which realized an 80% conversion uplift in sales and new membership. Now, Kerzner International is making its move into the cloud with Sitecore Managed Cloud.<br />
+        <br />
+        &ldquo;As a leading brand in the travel and hospitality industry, Kerzner International responded to increasing multinational sophistication by building the best personalized experiences possible for our guests, while planning for future growth,&rdquo; said Willem Both, EVP, Information Technology, Kerzner International. &ldquo;Sitecore Experience Platform has improved our guest experience and engagement, conversion, and productivity. We are pleased to take the next step in our digital transformation journey with Sitecore, scaling up on the cloud for increased agility and flexibility, while supporting our strategic international growth.&rdquo;<br />
+        <br />
+        Sitecore Managed Cloud is available now. For more information, visit Sitecore.com.</p>
+        <p><span><strong>About Sitecore</strong></span><br />
+        Sitecore delivers a digital experience platform that empowers the world&rsquo;s smartest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the only company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Leading companies including American Express, ASOS, Carnival Cruise Lines, Kimberly-Clark, L&rsquo;Or&eacute;al, and Volvo Cars rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.</p>
+        <p><span><strong>Contact</strong></span><br />
+        Shannon Lyman<br />
+        Senior Director, Communications<br />
+        shannon.lyman@sitecore.com</p>
+        <p>Sitecore, Sitecore Experience Platform, Sitecore Experience Commerce, and Sitecore Content Hub are either trademarks or registered trademarks of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names or trademarks belong to their respective holders.</p>
+        <p><span>1</span>Gartner Press Release, &ldquo;Gartner Forecasts Public Cloud Services in the Middle East and North Africa to Grow 21% in 2020&rdquo;, February 13, 2020</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T145127Z
+    - ID: "37255cc1-ef10-43f9-8272-222308299015"
+      Hint: Image
+      Value: |
+        <image mediaid="{60EDA8EB-0576-464F-9AC6-D7FA2C410B47}" ></image>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+      Hint: Title
+      Value: Sitecore Partners with Microsoft to Expand Digital Experience Platform Footprint in the UAE
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0afacee-bbbc-44f4-9ace-fae5c98b6044"
+    - ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{0C545F5D-2A70-4D2B-99BC-E9ABF8DBE64F}" />
+    - ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+      Hint: Intro
+      Value: Availability of Sitecore Managed Cloud Services via Microsoft's Middle East data centers in the UAE and through Azure App Service enables enterprises to accelerate personalized digital experience capabilities with speed, scale, and reliability.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220526T161323Z

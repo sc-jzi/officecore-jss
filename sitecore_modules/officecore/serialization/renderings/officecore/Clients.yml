@@ -1,0 +1,91 @@
+﻿---
+ID: "29c7be8b-a3ec-4ef2-b1d1-302ede13ffc6"
+Parent: "0efa2d5d-9d21-583c-bb62-b802b3146d1f"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/officecore/Clients
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Clients
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query query ($language: String!) {
+      item(path: "{C50A3478-4F04-4511-92E6-6BC37B7FC29E}", language: $language) {
+        Title:field(name: "Title") {
+          ... on TextField {
+            value
+          }
+        }
+        Text:field(name: "Text") {
+          ... on TextField {
+            value
+          }
+        }
+      }
+      search(
+        where: {
+          AND:[
+            {
+              name:"_path",
+          		value:"c50a34784f04451192e66bc37b7fc29e" 
+          		operator:CONTAINS
+            },
+            {
+              name: "_templates"
+              value: "dc715301d2ff47e28b6e364fb389e449"
+              operator: CONTAINS
+            }
+          ]
+          
+        }
+        first: 9,
+        orderBy: { name: "_updated", direction: ASC}
+      ) {
+        results{
+          Vertical:field(name: "Vertical") {
+              ... on TextField {
+                value
+              }
+          }
+          Website:field(name: "Website") {
+              ... on LinkField {
+              	value
+                    jsonValue
+              }
+          }
+          Logo:field(name: "Logo") {
+              ... on ImageField {
+              	value
+                    jsonValue
+              }
+          }
+        }
+      }
+    }
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220525T143332Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20769e21-4205-40ec-9703-2a9ed4bf1e12"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220525T201317Z

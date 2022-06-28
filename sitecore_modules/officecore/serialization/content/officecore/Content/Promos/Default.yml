@@ -1,0 +1,45 @@
+﻿---
+ID: "6610d3f6-a050-4962-9ffd-4348173f376a"
+Parent: "317b5f71-ec63-4d0e-b5b2-bf9d825f76c2"
+Template: "1712fb69-02c8-448c-99ac-859b5305e289"
+Path: /sitecore/content/officecore/Content/Promos/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T173120Z
+    - ID: "2e3acec6-2ad1-4c25-9e4e-967ca741cda9"
+      Hint: Address
+      Value: |
+        Sitecore UK Ltd. <br />
+        International House <br />
+        1 St. Katharine's Way <br />
+        London. E1W 1UN <br />
+        <abbr title="Phone">P:</abbr>&nbsp; +44 (0)20 3327 0630 <br />
+        <abbr title="Fax">F:</abbr>&nbsp; +44 (0)20 7621 1904 <br />
+        <strong>Email</strong><br />
+        <a href="mailto: sales-uk@sitecore.net">sales-uk@sitecore.net</a>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d919892-3e26-415a-8f3b-5d497b6cd4a3"
+      Hint: Title
+      Value: Our Contacts
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "994d7287-65ab-47a3-92ed-3ef484c6f4a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220324T170020Z

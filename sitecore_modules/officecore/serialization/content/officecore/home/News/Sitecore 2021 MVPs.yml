@@ -1,0 +1,88 @@
+﻿---
+ID: "dc528341-d0f3-44c2-8f22-35a653572924"
+Parent: "c25726dc-22e4-505c-a470-8191122952be"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/content/officecore/home/News/Sitecore 2021 MVPs
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value:  Sitecore Announces 2021 Most Valuable Professionals
+    - ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+      Hint: Date
+      Value: 20210127T050000Z
+    - ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+      Hint: Text
+      Value: |
+        <p><span><strong>San Francisco, Jan. 28, 2021</strong>&nbsp;</span>&ndash; Sitecore&reg; the global leader in digital experience management software, today announced the 2021 Sitecore Most Valuable Professionals (MVPs), marking the program&rsquo;s 15th year of celebrating outstanding individuals in the Sitecore community. This year, the 284 MVPs from around the globe have demonstrated exceptional Sitecore community support with numerous virtual engagements and provided vital feedback on Sitecore&rsquo;s products for further development and improvement.<br />
+        <br />
+        In 2021, Sitecore recognized 170 Technology MVPs, 33 Strategy MVPs and 81 Ambassador MVPs from more than 110 companies across 33 countries. This year, 15 MVPs are celebrating a milestone of more than 10 years of participating in the program, including: Brian Beckham, Richard Cabral, Corey Caplette, Sean Connell, Thomas Eldblom, Ben Golden, Richard Hauer, Nick Hills, Robbert Hock, Brian Pedersen, Klaus Petersen, Mark Ursino, Andy Uzick, Chris Williams and Sebastian Winslow.<br />
+        <br />
+        &ldquo;It is with great pleasure we announce these 284 outstanding leaders in the Sitecore community, especially in the MVP program&rsquo;s 15th year,&rdquo; said Steve Tzikakis, CEO of Sitecore. &ldquo;2020 was a challenging year for everyone, but our global community remained connected with efforts from our MVPs, who were able to overcome immense hurdles and share their knowledge and experiences through their dedication to the Sitecore community.&rdquo;<br />
+        <br />
+        The Sitecore MVP distinction is awarded to members of the international Sitecore community who have demonstrated mastery of the Sitecore platform and a commitment to sharing knowledge and technical expertise with community partners, customers and prospects over the course of the past year. The MVP program is more than an award &ndash; it also offers exclusive invitations to MVP discussion forums, regional meetings and the MVP Summit, as well as access to privileges such as early product releases, discussions with the product teams, and webinars.<br />
+        <br />
+        This year&rsquo;s 284 MVPs went above and beyond in 2020 to continue to connect and inform Sitecore&rsquo;s global community, despite the pandemic, when in-person events were not possible. For example, in March 2020, when the Sitecore User Group Conference (SUGCON) in Europe was canceled, MVPs immediately formed a committee to organize a virtual conference. The resulting SUGCON Global in April 2020 had more than 2,000 remote registrants, and the 24-hour virtual event made it possible for content and conversations to connect attendees around the world.<br />
+        <br />
+        &ldquo;Having had one of the longest tenures as a Sitecore MVP, I can honestly say that I am proud of what the MVP community has accomplished and continues to do to ensure Sitecore&rsquo;s products can be understood and used by a large developer and marketer base,&rdquo; said Klaus Petersen, a 14-year MVP. &ldquo;The community includes humble professionals who demonstrate immense effort and dedication to showcasing the possibilities of combining people and software. For me, the accomplishments of the community are astonishing and unique to Sitecore.&rdquo;<br />
+        <br />
+        &ldquo;I&rsquo;m thrilled to have been named an MVP for the first time among this incredible, passionate group of experts,&rdquo; said Khushboo Sorthiya, senior Sitecore developer. &ldquo;I believe that the distinction of Sitecore MVP is not just an achievement but a responsibility to share knowledge with the community and encourage aspiring people to do the same. In the same way, I was inspired by the great work the community has been doing and am excited to contribute my knowledge, expertise and real-world experiences. I look forward to expanding my connections, participating in fruitful discussions and providing useful feedback for all upcoming product releases.&rdquo;<br />
+        <br />
+        Upcoming key events for the Sitecore Community include Sitecore Hackathon 2021, running from March 5-6 and Virtual Developer Day on March 17.<br />
+        <br />
+        The complete list of 2021 Sitecore MVPs, program details and activities is available at mvp.sitecore.com.</p>
+        <p><span><strong>About Sitecore</strong></span><br />
+        Sitecore delivers a digital experience platform that empowers the world's smartest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the only company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Leading companies, including American Express, ASOS, Kimberly-Clark, L'Or&eacute;al, and Volvo Cars, rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.</p>
+        <p><span><strong>Contact</strong></span><br />
+        Shannon Lyman<br />
+        Senior Director, Communications<br />
+        shannon.lyman@sitecore.com</p>
+        <p>Sitecore is a registered trademark of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names or trademarks belong to their respective holders.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T135214Z
+    - ID: "37255cc1-ef10-43f9-8272-222308299015"
+      Hint: Image
+      Value: |
+        <image mediaid="{466833D2-324A-48C8-A523-697528FC37BF}" ></image>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+      Hint: Title
+      Value:  Sitecore Announces 2021 Most Valuable Professionals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "005876f8-4679-4863-9725-a6ffb8c97739"
+    - ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{F2AD846D-4CC5-4807-B27E-A44436F131C4}" />
+    - ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+      Hint: Intro
+      Value: In its 15th year, the annual award program recognizes 284 individuals who went above and beyond for the Sitecore community
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220526T161245Z

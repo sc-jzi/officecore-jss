@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\Layouts\officecore.yml
+ID: "e8f62ca9-8833-5a8a-86ce-0fc2c33005d8"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project/officecore
+Signature: LLWLDwaf3boNbXJsR7bG8tmxHKdibK6bnAi1n1AX54s=
+Modified: 637885747291304626
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\Layouts\officecore\officecore Layout.yml
+ID: "44c1b02f-9fad-5e65-91e8-a3b207b64d61"
+Parent: "e8f62ca9-8833-5a8a-86ce-0fc2c33005d8"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/officecore/officecore Layout
+Signature: sqX4tcOplEkDD17UIJRD08qZ02SKQ4q1QV1RvOxGM9I=
+Modified: 637885747291314623

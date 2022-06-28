@@ -1,0 +1,32 @@
+﻿---
+ID: "c50a3478-4f04-4511-92e6-6bc37b7fc29e"
+Parent: "3bfc4341-99bc-4393-94f0-5eabf9c73efa"
+Template: "eb2fd5d1-847f-43cb-a874-1014f331d081"
+Path: /sitecore/content/officecore/Content/Clients/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T200238Z
+    - ID: "4fc79ae3-4b41-4438-b872-e6cecd4d52d7"
+      Hint: Text
+      Value: "Interested to see more of our customers? Click here."
+    - ID: "77d97db0-ca16-4c34-a4e0-ff9e748715de"
+      Hint: Title
+      Value: Our Clients
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15d2577c-1ce5-4ded-befd-818baf32c10e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220321T205713Z

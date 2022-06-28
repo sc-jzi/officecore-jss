@@ -1,0 +1,34 @@
+fragment navigationFields on Item {
+  ... on AppRoute {
+    pageTitle {
+      jsonValue
+    }
+  }
+  url {
+    path
+  }
+}
+
+query HeaderQuery ($datasource: String!, $site: String!, $language: String!){
+  layout(site: $site, routePath: "/", language: $language) {
+    item {
+      ...navigationFields
+      children(hasLayout: true, includeTemplateIDs: "{C937819F-DA2D-523D-8298-A58383D07CA6}") {
+        results {
+          ...navigationFields
+          children(hasLayout: true, includeTemplateIDs: "{C937819F-DA2D-523D-8298-A58383D07CA6}") {
+            results {
+            	...navigationFields
+            }
+          }
+        }
+      }
+    }
+  }
+  # Two queries in the same payload
+  item(path:$datasource, language:$language) {
+    field(name:"logo") {
+      jsonValue
+    }
+  }
+}

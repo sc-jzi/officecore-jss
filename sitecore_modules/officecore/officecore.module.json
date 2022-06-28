@@ -1,0 +1,41 @@
+{
+    "namespace": "officecore",
+    "references": [""],
+    "items": {
+        "includes": [
+            {
+              "name": "templates",
+              "path": "/sitecore/templates/Project/officecore"
+            },
+            {
+                "name": "keys",
+                "path": "/sitecore/system/Settings/Services/API Keys/Officecore",
+                "scope": "SingleItem"
+            },
+            {
+                "name": "placeholder settings",
+                "path": "/sitecore/layout/Placeholder Settings/Project/officecore"
+            },
+            {
+                "name": "Layouts",
+                "path": "/sitecore/layout/Layouts/Project/officecore"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/officecore"
+            },
+            {
+                "name": "content resolvers",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/List Items Content Resolver"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/officecore"
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/officecore"
+            }
+        ]
+    }
+  }

@@ -1,0 +1,74 @@
+﻿---
+ID: "a8386ab9-e8c4-481a-9ed4-d64571e5f7bd"
+Parent: "c25726dc-22e4-505c-a470-8191122952be"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/content/officecore/home/News/Sitecore Acquires Moosend
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value: Sitecore Acquires Moosend
+    - ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+      Hint: Date
+      Value: 20210525T040000Z
+    - ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+      Hint: Text
+      Value: |
+        <p><span><strong>San Francisco, May 26, 2021</strong></span>&nbsp;&ndash; Sitecore&reg; the global leader in digital experience management software, today announced that it has completed its acquisition of London headquartered Moosend, a SaaS-based marketing automation platform provider. The acquisition of the Greek technology start-up Moosend is a significant milestone in Sitecore&rsquo;s evolution to become a SaaS-based digital experience platform capable of supporting the most sophisticated digital experiences.</p>
+        <p>The acquisition completion, which is part of Sitecore&rsquo;s ambitious ongoing $1.2 billion growth plan, will complement Sitecore&rsquo;s ability to power the personalization requirements of modern enterprises, with the integration of Moosend&rsquo;s cloud-native, API-first, and modular marketing automation platform. In addition, Moosend&rsquo;s platform includes complementary e-commerce capabilities that, alongside recent acquisitions of Four51 and Boxever, will offer even more power to seamlessly deliver targeted revenue-enhancing campaigns tied to cart abandonment, product recommendation, and promotions scenarios.</p>
+        <p>&ldquo;The completion of our acquisition of Moosend is another exciting milestone for us,&rdquo; said Steve Tzikakis, CEO, Sitecore. &ldquo;As our third acquisition this year, we will continue along our ambitious journey to enhance and energize our customers&rsquo; marketing efforts. We&rsquo;re now better positioned to support our customers in the effective deployment of measurable marketing campaigns, by further improving the automation of workflows across the entire customer journey. Our aim is always to provide our customers with faster innovation, less upfront investment and shorter time to value, and the completion of this acquisition ensures this.&rdquo;</p>
+        <p>With the transaction closed, Moosend&rsquo;s senior leadership team including CEO Yannis Psarras will join the Sitecore family, overseeing the technology integration and supporting customers and partners with the transition.</p>
+        <p>Sitecore intends to invest and grow in Greece, where Moosend was originally founded, and plans to increase headcount in the country over the next 12 months.</p>
+        <p>&ldquo;Our team is excited to be joining such an ambitious and well-established brand and welcomes the additional capabilities the platform integration will offer our customers,&rdquo; said Psarras. &ldquo;Our customers and staff will greatly benefit from the new product capabilities made possible through Sitecore&rsquo;s additional research and development resources, the scale of its marketing, sales, support resources and partner ecosystem and its recent $1.2 billion investment.&rdquo;</p>
+        <p>The company announced plans to acquire Moosend at the beginning of May.</p>
+        <h4>About Sitecore</h4>
+        <p>Sitecore delivers a digital experience platform that empowers the world&rsquo;s smartest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the only company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Leading companies including American Express, ASOS, Kimberly-Clark, L&rsquo;Or&eacute;al and Volvo Cars rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.</p>
+        <p>Sitecore is a registered trademark of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names or trademarks belong to their respective holders.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T133732Z
+    - ID: "37255cc1-ef10-43f9-8272-222308299015"
+      Hint: Image
+      Value: |
+        <image mediaid="{8C852C67-BA29-4C49-A6F1-69901ECAABF5}" ></image>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+      Hint: Title
+      Value: Sitecore Acquires Moosend
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5fbf397-1d99-44ef-98fb-7845536b0b24"
+    - ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{0C545F5D-2A70-4D2B-99BC-E9ABF8DBE64F}" />
+    - ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+      Hint: Intro
+      Value: The completion cements Sitecore's ambitious growth plans with its third acquisition this year.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220526T161259Z

@@ -1,0 +1,64 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore\jss-middle.yml
+ID: "abe0edf8-ff56-550e-9315-a3c76d51fb45"
+Parent: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/officecore/jss-middle"
+Signature: 0pCVYBwexcU5VfYazkKimYYYkt5aDaG3dDgReH1alng=
+Modified: 637897785472644831
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore\jss-right.yml
+ID: "4e9edab0-750d-544b-bf9f-20761da176c8"
+Parent: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/officecore/jss-right"
+Signature: 7Ei5qJy3XbLMtaXVp+HyDEeCc5m+mA2XrUjDulpmZLw=
+Modified: 637897785472654831
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore.yml
+ID: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/officecore
+Signature: n1kHJlEKo+lmvBVNpjGymwXwmV5QykFWFj5OO3tgbec=
+Modified: 637885747301578182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore\jss-footer.yml
+ID: "47eb6897-bb77-57fa-b27e-2dfee738b5e1"
+Parent: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/officecore/jss-footer"
+Signature: 3fsDpYO1SRuAQbnF+CzUqP9S/teWrREZdTerL/+zhkw=
+Modified: 637891141506426293
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore\jss-header.yml
+ID: "f7331bf0-0a1a-5ae6-80a4-a7d5590abb39"
+Parent: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/officecore/jss-header"
+Signature: o8UpyFvPTonBme5YY1FusTtRG4HPB6wzt9RAxxKnIX8=
+Modified: 637891141506446267
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore\jss-left.yml
+ID: "a0f23740-1353-528e-8bec-9e8f4e2e9952"
+Parent: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/officecore/jss-left"
+Signature: O2kn8kY30Pzj9orLP3NAMDlNNvWEYtcXqF/xRlKue40=
+Modified: 637885747301618362
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\placeholder settings\officecore\jss-main.yml
+ID: "6bfaaa12-4024-5ea7-8c19-4311adff17e4"
+Parent: "7e733fec-4fae-56df-9f77-885eccf228a8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/officecore/jss-main"
+Signature: 5YS0HYs4RaPsnlvP4bFdfjSeOlKorANtIybGVzG1a5M=
+Modified: 637897785472624829

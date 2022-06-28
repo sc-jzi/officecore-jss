@@ -1,0 +1,83 @@
+﻿---
+ID: "e5fa4a82-e7bc-5188-b03b-225519c7d90f"
+Parent: "0b2c5a84-a4f5-5f1a-a72f-a5f6da1c8c4f"
+Template: "c937819f-da2d-523d-8298-a58383d07ca6"
+Path: /sitecore/content/officecore/home
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CF9B50E6-D6D0-4532-9D22-90E599F63B9C}"
+              p:after="r[@uid='{DE1B958B-4E8F-491D-AB4C-A654B982A97B}']"
+              s:id="{D46FF417-1356-4C4B-B74E-F8B52AFE31E0}"
+              s:ph="jss-main" />
+            <r
+              uid="{BC7A6C6B-41B4-46C4-BADB-AD2A87690BC5}"
+              p:after="r[@uid='{CF9B50E6-D6D0-4532-9D22-90E599F63B9C}']"
+              s:ds="{C25726DC-22E4-505C-A470-8191122952BE}"
+              s:id="{143E6130-CCB7-4D79-8243-55B5C4E631A8}"
+              s:ph="jss-main" />
+            <r
+              uid="{E3804BA7-4F5D-4B44-915F-88F76129BE21}"
+              p:after="r[@uid='{BC7A6C6B-41B4-46C4-BADB-AD2A87690BC5}']"
+              s:ds="{2CD57A9E-DDE7-4A7D-8BC2-97AFCCC0ED83}"
+              s:id="{59299768-A48A-4E4A-9823-E1C34DC582C5}"
+              s:par=""
+              s:ph="jss-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{2D05920B-082E-41FA-85B3-96317373CAB5}"
+              p:after="r[@uid='{E3804BA7-4F5D-4B44-915F-88F76129BE21}']"
+              s:id="{29C7BE8B-A3EC-4EF2-B1D1-302EDE13FFC6}"
+              s:ph="jss-main" />
+            <r
+              uid="{DFB22ABA-C8DA-4A50-8969-968C15529612}"
+              p:after="r[@uid='{2D05920B-082E-41FA-85B3-96317373CAB5}']"
+              s:ds="{649C4545-E5A7-45DF-A04A-AE1FD0ED123B}"
+              s:id="{C7C771C4-34D4-4894-85FE-D60B92567FB5}"
+              s:par=""
+              s:ph="jss-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FB89CABF-7AE0-4876-8B93-674AB9956AEB}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value: Home
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T190009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca01b503-adb8-4d52-b13d-8036a2a8b174"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220525T230930Z

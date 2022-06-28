@@ -1,0 +1,88 @@
+﻿---
+ID: "73dd3e75-cf76-4dfd-bc70-6710c061b966"
+Parent: "c25726dc-22e4-505c-a470-8191122952be"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/content/officecore/home/News/Nick Malone COO
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+      Hint: pageTitle
+      Value: Nick Malone Joins Sitecore as Chief Operating Officer
+    - ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+      Hint: Date
+      Value: 20210204T050000Z
+    - ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+      Hint: Text
+      Value: |
+        <span><strong>San Francisco, Feb. 5, 2021</strong>&nbsp;</span>Sitecore&reg; the global leader in digital experience management software, announced today that Nick Malone has joined the company as chief operating officer.<br />
+        <br />
+        Most recently serving as senior vice president of sales and ecosystems for SAP, Malone brings 24 years of leadership experience spanning mature and emerging markets and ecosystems. Prior to his role at SAP, Malone was chief information officer at the sovereign wealth fund Samruk-Kazyna, where he defined and led their group digital transformation.<br />
+        <br />
+        Malone will oversee Sitecore's ecosystem including global alliances, its partner community and digital agencies as well as global field operations, Sitecore's project management office, IT and security operations, and merger and acquisition integration. This news follows a series of strategic announcements outlining Sitecore's readiness plans for tremendous growth, including an investment of $1.2 billion into the company, announced last month.<br />
+        <br />
+        "Nick's experience overseeing partner ecosystems, sales organizations and background pioneering a digital go-to-market model is invaluable as Sitecore navigates its exponential growth," said Steve Tzikakis, CEO, Sitecore. "Now, more than ever, we need to be agile, engaging and experience-driven. Nick's oversight of our transformation will allow us to do just that."<br />
+        <br />
+        "To say this is an exciting time to join Sitecore would be an understatement," said Malone. "The energy brewing and global coordination efforts underway are a preview of great things to come. I'm thrilled to join this incredibly talented team to help lead current and future transformations."<br />
+        <br />
+        <p><span><strong>About Sitecore</strong></span><br />
+        Sitecore delivers a digital experience platform that empowers the world's smartest brands to build lifelong relationships with their customers. A highly decorated industry leader, Sitecore is the only company bringing together content, commerce, and data into one connected platform that delivers millions of digital experiences every day. Leading companies, including American Express, ASOS, Kimberly-Clark, L'Or&eacute;al, and Volvo Cars, rely on Sitecore to provide more engaging, personalized experiences for their customers. Learn more at Sitecore.com.</p>
+        <p><span><strong>Contact</strong></span><br />
+        Shannon Lyman<br />
+        Senior Director, Communications<br />
+        shannon.lyman@sitecore.com<br />
+        <br />
+        Sitecore is a registered trademark of Sitecore Corporation A/S in the USA and other countries. All other brand names, product names or trademarks belong to their respective holders.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220318T134935Z
+    - ID: "37255cc1-ef10-43f9-8272-222308299015"
+      Hint: Image
+      Value: |
+        <image mediaid="{3C8971EB-8F6E-4415-BB1E-5C06123DB04C}" ></image>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "44bcf51b-2df9-4f67-8ff0-6c4b6c7132ee"
+      Hint: Location
+      Value: San Francisco
+    - ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+      Hint: Title
+      Value: Nick Malone Joins Sitecore as Chief Operating Officer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5aa64013-7922-4ca6-9a53-e19ac43eb620"
+    - ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{0C545F5D-2A70-4D2B-99BC-E9ABF8DBE64F}" />
+    - ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+      Hint: Intro
+      Value: Nick Malone has joined the company as chief operating officer.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220526T161237Z

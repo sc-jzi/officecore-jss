@@ -1,0 +1,829 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article\News Content\Location.yml
+ID: "44bcf51b-2df9-4f67-8ff0-6c4b6c7132ee"
+Parent: "3a827788-9674-40fd-a31e-c30ab018e475"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/News Article/News Content/Location
+Signature: F3JpcsDn+kx/eSTdmUJ0EWcfIMt4OLBFeg2ntCW+jmE=
+Modified: 637885747302618204
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Page\Data\BannerImage.yml
+ID: "a0a9ad0f-4928-4510-8de4-6065a7c2d259"
+Parent: "04b8712e-40e5-4df8-9a57-29462240ff3a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Page/Data/BannerImage
+Signature: 9XbpC47T5OGIMEw+IuBSLwptTlI/t5yDVAwXdCR3lVU=
+Modified: 637891793812718190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Page\Data\Text.yml
+ID: "188a45bb-3c6d-4091-bb85-3bb4c0b93c58"
+Parent: "04b8712e-40e5-4df8-9a57-29462240ff3a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Page/Data/Text
+Signature: JOUtYQFhuQK12CktLdhxTdhw5xkw/HQb0TgmkXdGKA4=
+Modified: 637885747302688218
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Page\Data\Title.yml
+ID: "4fa7a453-e6de-4940-8dd6-7660f0aa4073"
+Parent: "04b8712e-40e5-4df8-9a57-29462240ff3a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Page/Data/Title
+Signature: b3FL9a3j7nIm4ioL96+qBKONynNY5jv2ib0Pigj4LzA=
+Modified: 637885747302698211
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product Section\Product Data\ProductDescription.yml
+ID: "0c5907b4-f4bb-46a8-b52b-5207c1f70c10"
+Parent: "16db6c17-3658-4d75-91c2-f95754755b9e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Product Section/Product Data/ProductDescription
+Signature: NmJpnD0tSGhAO2GVbQ2shX6na6/qtXegBdkZjZ5OUOc=
+Modified: 637895212597889194
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product Section\Product Data\ProductImage.yml
+ID: "6fc08e8e-47d3-441a-8cbf-f3f9bc6d2a64"
+Parent: "16db6c17-3658-4d75-91c2-f95754755b9e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Product Section/Product Data/ProductImage
+Signature: QE8Gu7oQtWwhTRIxEdkdGEwq4pKetPY0EAcFPSgMJx4=
+Modified: 637895212597889194
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Promo Content\Data\Address.yml
+ID: "2e3acec6-2ad1-4c25-9e4e-967ca741cda9"
+Parent: "aabf64ec-efaf-419f-8482-b2ae33bd5c83"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Promo Content/Data/Address
+Signature: zgtSiLzek8rGBRoTTZCfwAoLaLpLgyStMzZIp3Bbp0g=
+Modified: 637885747303008208
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Promo Content\Data\Title.yml
+ID: "6d919892-3e26-415a-8f3b-5d497b6cd4a3"
+Parent: "aabf64ec-efaf-419f-8482-b2ae33bd5c83"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Promo Content/Data/Title
+Signature: 9HjrWcGljgyoxb+DAi1qAsfl0FejCGa/3S3n90qKhmQ=
+Modified: 637885747303018184
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 1\Text1.yml
+ID: "44f48a8e-8a91-4440-a48f-6a3f8efe90ce"
+Parent: "fff727c4-ccb7-40be-a30b-a687e6dd7f10"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Steps/Step 1/Text1
+Signature: mioB7vnXeKInFdb6zV/V+taQUoEuJOdYq69htzkEZqE=
+Modified: 637885747303068181
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 1\Title1.yml
+ID: "2c705d22-b2ad-49ea-a20a-ecc16559dc67"
+Parent: "fff727c4-ccb7-40be-a30b-a687e6dd7f10"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Steps/Step 1/Title1
+Signature: DH3+ROwuXJVm1AOllttcsAJDsgpbAeqhAaB/3IY4O7Y=
+Modified: 637885747303078190
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 2\Text2.yml
+ID: "e0c8daa6-deec-4ccd-a814-84bbddf55c12"
+Parent: "f1d277b0-d8e9-4bb4-916a-057a7101be9f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Steps/Step 2/Text2
+Signature: tOiyALi0dag+zOzrzYv+xgHt7hxHeECo41Pxa9zWzc0=
+Modified: 637885747303138198
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 2\Title2.yml
+ID: "987b2cf8-cda7-4f38-b701-23008ec2efef"
+Parent: "f1d277b0-d8e9-4bb4-916a-057a7101be9f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Steps/Step 2/Title2
+Signature: 9c+JZfVZ872sCtQsbRT0PYbAohwnGT4Tfn5KzG+v6uo=
+Modified: 637885747303168195
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 3\Text3.yml
+ID: "dc4b188a-22ac-4389-acb2-64dc67cfb9f7"
+Parent: "fb465dbb-2e52-4fe7-938a-f969261e3239"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Steps/Step 3/Text3
+Signature: tOiyALi0dag+zOzrzYv+xgHt7hxHeECo41Pxa9zWzc0=
+Modified: 637885747303218199
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 3\Title3.yml
+ID: "a6d2a1de-8990-4d5e-be3e-ea8a2aa451ba"
+Parent: "fb465dbb-2e52-4fe7-938a-f969261e3239"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Steps/Step 3/Title3
+Signature: 9c+JZfVZ872sCtQsbRT0PYbAohwnGT4Tfn5KzG+v6uo=
+Modified: 637885747303228199
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Tag\Data\TagName.yml
+ID: "54ebf043-053d-4308-a071-0fe568baa2b3"
+Parent: "df095f6f-f418-4621-82ea-c181f3dbdfe6"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Tag/Data/TagName
+Signature: Z6L/cRHevP/91STipW0tmTpEu04teyyM6v/DePR6a4E=
+Modified: 637885747303318205
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data\Subtitle.yml
+ID: "499c3fd3-2495-4dde-abbd-6590c0a035bf"
+Parent: "cbc9d842-86e1-4399-acce-3328077825c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Video/Data/Subtitle
+Signature: lVMgrCE9hylyEQfGUA/yCY2z+niVCGKRCxm4csSxWC0=
+Modified: 637891176471717837
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data\Title.yml
+ID: "76bcefa2-dfcc-4fd0-bc5e-19ac896c4295"
+Parent: "cbc9d842-86e1-4399-acce-3328077825c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Video/Data/Title
+Signature: Qt7Ybexoi21AN41tSSNgboqA4x1sPyDLVRO00wvTSag=
+Modified: 637891176471667829
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data\VideoId.yml
+ID: "67060ce1-38af-4925-a97f-b5ba02814de7"
+Parent: "cbc9d842-86e1-4399-acce-3328077825c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Video/Data/VideoId
+Signature: ONArFIvc1mNFMCn7wczEByeR+SUMLt69yxQYXBKgTuI=
+Modified: 637891176471777866
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data\VideoImage.yml
+ID: "b00a1357-4d7d-4865-af22-47a262d7a32b"
+Parent: "cbc9d842-86e1-4399-acce-3328077825c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Video/Data/VideoImage
+Signature: +LBpU6AFBycULTAvQ63jMl3Oug1yPpqUFkyXH8DNYFw=
+Modified: 637891176471767878
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data\WatchMoreLink.yml
+ID: "2135d222-ced3-4038-90b9-15b13f222277"
+Parent: "cbc9d842-86e1-4399-acce-3328077825c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Video/Data/WatchMoreLink
+Signature: 3TiUV9mTBK0c0GjrAm0qB3DSpLGfTuhAGH/Uwi5RxqA=
+Modified: 637891176471737828
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data\WatchMoreText.yml
+ID: "223ad229-4b18-4ac4-be17-999482d23812"
+Parent: "cbc9d842-86e1-4399-acce-3328077825c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Video/Data/WatchMoreText
+Signature: iSNa523Ao+zZaLUISjV5IsT3Zrt2hSyIsXCDnIV9CNU=
+Modified: 637891176471747838
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data\IncludeServerUrlInMediaUrls.yml
+ID: "9e1ee725-78ae-4012-b592-570d9ba69777"
+Parent: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data/IncludeServerUrlInMediaUrls
+Signature: 3BVKFzoqN+GyEtib/B3a1BnoAfxECEl12Z0Ln5SRjHw=
+Modified: 637885747302468227
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data\ItemSelectorQuery.yml
+ID: "13fe0672-ff55-4fae-a8a7-2e6b1ba82415"
+Parent: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data/ItemSelectorQuery
+Signature: TqWfoUL07HctHs1DZjEyPNrAnAojhHNIPsQ7W6FCiSo=
+Modified: 637885747302478210
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data\RandomizeResults.yml
+ID: "4cf855a8-abd5-4939-8eb2-07d875e01c3f"
+Parent: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data/RandomizeResults
+Signature: hxYbJ+L7gX1C0Y0Bmc0Oj7rVktVT8vlT8EAg5eY95aM=
+Modified: 637885747302498242
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data\Rendering Contents Resolver Parameters.yml
+ID: "58dcf13c-3dc5-4ca2-a3b4-3adacd8c6167"
+Parent: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data/Rendering Contents Resolver Parameters
+Signature: tgxywKrEULv0Dtbg4ezi4/W6SJKy77mh//udgaIRGEA=
+Modified: 637885747302508310
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data\Type.yml
+ID: "48ab7701-01fa-4190-a4f0-35f913736f1c"
+Parent: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data/Type
+Signature: /gmRnoz0hj+xI/ViqJArofNyx4S/5/Z8+6/QpSv+Dig=
+Modified: 637885747302518216
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data\UseContextItem.yml
+ID: "55b2dbe3-5cc3-4d4b-bbcc-045e706099fc"
+Parent: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data/UseContextItem
+Signature: Gbloif/lUKwMgOWdCG7MSkwWs7FhOzujij4l8Q1hkmE=
+Modified: 637885747302538201
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore.yml
+ID: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/officecore
+Signature: 20TwoqL4lUN82werHvI7EH4R4Tf8xoocePn1tmT7kjU=
+Modified: 637885747302048221
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\App Route.yml
+ID: "c937819f-da2d-523d-8298-a58383d07ca6"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/App Route
+Signature: hEYCWdxUreNAtnbOrwy/+zttLxBQRitmIT4vukgr0yw=
+Modified: 637885747302068169
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Client.yml
+ID: "dc715301-d2ff-47e2-8b6e-364fb389e449"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Client
+Signature: zIQXCb2q5jXDHtFrRXvTI0ZbTawXGkotqZEopuj3wEo=
+Modified: 637885747302228188
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\ClientsFolder.yml
+ID: "eb2fd5d1-847f-43cb-a874-1014f331d081"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/ClientsFolder
+Signature: IWgK6hlCG/m46Wqotl0Ekd2W75uJjSpqY8su5hXKxlw=
+Modified: 637885747302288178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer.yml
+ID: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Footer
+Signature: OOCi85QW0qC1vtmBsuEgheUge+GODA/x8tNNUo3Ngcw=
+Modified: 637885747302338191
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Form.yml
+ID: "5b49c1ab-d5a7-49fc-bfac-cfca01df140c"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Form
+Signature: QmMzi7hSR30cgw64nwmt7yLPSIsNs44zWh7cEWMyGAU=
+Modified: 637891176471407869
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Header.yml
+ID: "1ea77599-a200-48f1-a9c0-ecf07600ebff"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Header
+Signature: QhhtorbWDKK8y2t+bz0a8hrK70kPtmGnUUzH1fo6g+E=
+Modified: 637885747302368178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service.yml
+ID: "107f31a8-39bc-4694-9ad9-d2c33e81d0ad"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/officecore/Layout Service
+Signature: Xouu9+0MXych5B6YzyGSfXzhm2wAyzRWvh45QbuaSpU=
+Modified: 637885747302408171
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article.yml
+ID: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/News Article
+Signature: H0pV7c6LXfNPud4aIYFUfddc06I+myS1ahcBX2L3Hqc=
+Modified: 637885747302558195
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Page.yml
+ID: "34cc6f8a-9980-45a1-9a07-ebe18748a57f"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Page
+Signature: X3Hg91CVjCPAiYTPqLrbOrd/ZDnGwNDzAUYFP2KZ9PE=
+Modified: 637885747302648210
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product Section.yml
+ID: "82204080-c41f-42fe-b88e-01c1c1a6befa"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Product Section
+Signature: RYIttiUYJ9aoAIPaENbFVD1TjeG14KvBbtGj7yEwMoU=
+Modified: 637885747302878208
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product.yml
+ID: "8fb1d232-8ecd-4201-a51f-873ff629cb93"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Product
+Signature: 4lt+aYR5CjBjIY3NXIPCqxX7c/UE9JMyMLl80j9kTnQ=
+Modified: 637895212597889194
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Promo Content.yml
+ID: "1712fb69-02c8-448c-99ac-859b5305e289"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Promo Content
+Signature: 5GsPzu93TdiYPzl/95PtT46gONCUo3y0c0nD0wXeJo4=
+Modified: 637885747302978181
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps.yml
+ID: "9bb8f81c-6b03-4655-adcc-19315fd9e90c"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Steps
+Signature: WxlEO6b1nz/jlMs7rJ9VnSRtauj29bRPnpRw8jAsDos=
+Modified: 637885747303028177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Tag.yml
+ID: "c1b81772-c326-4b30-9108-6f1ea131f395"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Tag
+Signature: 7EADoUZ2Pe+44XYO/wncpMIiV2U3UtDgQLhEhLdtrNI=
+Modified: 637885747303258199
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video.yml
+ID: "31c83f7a-4bc9-4ca6-b91b-3fc13949bbea"
+Parent: "1fa76d90-495c-5b30-8dfd-b198dc588e8b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Video
+Signature: tK4KQNjH2Sn9aqlvnmY5Q2Vm1UxPiQWE5pRX/xOzm2Q=
+Modified: 637891176471427838
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\App Route\Page Metadata.yml
+ID: "06b05179-ca5f-5367-8511-961e61899ade"
+Parent: "c937819f-da2d-523d-8298-a58383d07ca6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/App Route/Page Metadata
+Signature: Ej05DAl6YhJ+k3ysRVq+JwJYDu/zkkmci15eacJPBH8=
+Modified: 637885747302088177
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\App Route\__Standard Values.yml
+ID: "36075d0d-df51-5e62-9ad9-696095ecf135"
+Parent: "c937819f-da2d-523d-8298-a58383d07ca6"
+Template: "c937819f-da2d-523d-8298-a58383d07ca6"
+Path: /sitecore/templates/Project/officecore/App Route/__Standard Values
+Signature: CPdAD4GjIMgG2iQ90nKid5EqTDM2Fozcrja/osiivzw=
+Modified: 637891141506116304
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Client\Data.yml
+ID: "21fa55ac-ae23-44ab-9c7f-ec7b894f8e0b"
+Parent: "dc715301-d2ff-47e2-8b6e-364fb389e449"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Client/Data
+Signature: JFJAkpqOBOkKktMu361JvrRhkmyN54wTtBunyNmWWaM=
+Modified: 637885747302238178
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\ClientsFolder\Data.yml
+ID: "55983668-a7e7-4424-a51a-b2bad5e96e2d"
+Parent: "eb2fd5d1-847f-43cb-a874-1014f331d081"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/ClientsFolder/Data
+Signature: wmLURMb5W1BFIwZCa5+Pf3kysAftzPvXaSQfXeYHBcU=
+Modified: 637885747302298179
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\ClientsFolder\__Standard Values.yml
+ID: "012efad3-0e6f-4a7e-8f3e-f37e2bab259d"
+Parent: "eb2fd5d1-847f-43cb-a874-1014f331d081"
+Template: "eb2fd5d1-847f-43cb-a874-1014f331d081"
+Path: /sitecore/templates/Project/officecore/ClientsFolder/__Standard Values
+Signature: mXCLUOn04+3DwjW5gPsd/U/Vs42OsuFHOEoEg9/pck0=
+Modified: 637885747302328193
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Contact.yml
+ID: "6c3b2871-3c60-41c8-97de-7f371edab6a5"
+Parent: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Footer/Contact
+Signature: LwMIgqYjzhNmG6mY6ZjNVmTvDHtcDZLDp1GwbPEQ25U=
+Modified: 637891141506036319
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Copyright.yml
+ID: "afdd939b-71c4-4ee7-b415-b9d55f2b1514"
+Parent: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Footer/Copyright
+Signature: 1wx8cOzwA8g2U5+IYg4z8VUf5lnhIoZAXb6dS09x4nI=
+Modified: 637891141506326290
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Officecore.yml
+ID: "99859eb2-f896-409b-8367-5195457386d9"
+Parent: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Footer/Officecore
+Signature: cEPFNZNtOR6cAX4uSe58V9wLEJIjGObKFqJT4NCcmUg=
+Modified: 637891141506006608
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Quick Links.yml
+ID: "6875cabd-e45d-4b5b-be99-827ee03a4772"
+Parent: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Footer/Quick Links
+Signature: BPAwXikALo9QaG57vpW52W/A2uRg4hbGFZKzbI/SzzQ=
+Modified: 637891141506026266
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Services.yml
+ID: "d73e63cc-17bd-4f5e-8e4c-f0143a28d10d"
+Parent: "406a6bbf-0643-4a19-8196-eaeb273a6e4d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Footer/Services
+Signature: W/sUQT++PNdWHJtlHvNBtWeldT0xJcdFMqisV6m4nDA=
+Modified: 637891141506016262
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Form\Data.yml
+ID: "b97d0232-60a2-4153-ac3e-0613bba3b820"
+Parent: "5b49c1ab-d5a7-49fc-bfac-cfca01df140c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Form/Data
+Signature: KoqlZu959DiW4JvSoThNFpHOqAv5ZPanmVU1WNQxg0g=
+Modified: 637891176471497857
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Header\Data.yml
+ID: "08dc9258-2b4f-4de9-8fa4-0546fd3a759f"
+Parent: "1ea77599-a200-48f1-a9c0-ecf07600ebff"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Header/Data
+Signature: Hcayq8hsYU807fU0AAZdcVF17CoFsfkC9pejttgfn3E=
+Modified: 637885747302378180
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver.yml
+ID: "2a05e901-c2a0-422c-baea-13bb2749e93c"
+Parent: "107f31a8-39bc-4694-9ad9-d2c33e81d0ad"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver
+Signature: 2HUiL4myv78taGjIZ3/X1Rrs/N1yDEzrGKgYXe+fhEA=
+Modified: 637885747302418341
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article\News Content.yml
+ID: "3a827788-9674-40fd-a31e-c30ab018e475"
+Parent: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/News Article/News Content
+Signature: qad6nBBfV3Cp6TK3kwoQ9YL/GpT72KCSunOpxc7tWno=
+Modified: 637885747302568191
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article\__Standard Values.yml
+ID: "f824155f-a13e-4c76-92d5-1eb3cf6c14ae"
+Parent: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Template: "45797253-fce5-4cf9-9b30-3bef3e388b9b"
+Path: /sitecore/templates/Project/officecore/News Article/__Standard Values
+Signature: V0g2F0h1X+vW2NQY4IBALWGkVBqCZKvptsAYR3WqLbg=
+Modified: 637891793812507538
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Page\Data.yml
+ID: "04b8712e-40e5-4df8-9a57-29462240ff3a"
+Parent: "34cc6f8a-9980-45a1-9a07-ebe18748a57f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Page/Data
+Signature: yRqn0NVAZCyQkQbwD802dclRCAe3H3IKoOozi3pPQsM=
+Modified: 637885747302668202
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Page\__Standard Values.yml
+ID: "fe4bf23d-9fc0-4469-b2a5-6bc71893a468"
+Parent: "34cc6f8a-9980-45a1-9a07-ebe18748a57f"
+Template: "34cc6f8a-9980-45a1-9a07-ebe18748a57f"
+Path: /sitecore/templates/Project/officecore/Page/__Standard Values
+Signature: 1ki74wGOlms/8hcTT+T8quIcOqhAZKdf9nj4hdbJ42U=
+Modified: 637891793812507538
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product\__Standard Values.yml
+ID: "44f0c6ae-b6f2-40cc-bead-84dfb7ef9327"
+Parent: "8fb1d232-8ecd-4201-a51f-873ff629cb93"
+Template: "8fb1d232-8ecd-4201-a51f-873ff629cb93"
+Path: /sitecore/templates/Project/officecore/Product/__Standard Values
+Signature: e+KAk51JZOtuNj17Rc5QvRlxSnP29GHO3jgsKeOpArk=
+Modified: 637895212598045419
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product Section\Product Data.yml
+ID: "16db6c17-3658-4d75-91c2-f95754755b9e"
+Parent: "82204080-c41f-42fe-b88e-01c1c1a6befa"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Product Section/Product Data
+Signature: bzodUJU5tzKpBfgq1uc3VjhbRZgvEdWAIR4IJ53Dgqs=
+Modified: 637895212597889194
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Product Section\__Standard Values.yml
+ID: "e1eb2e3a-dd98-4ecd-a878-e3adda3f1af6"
+Parent: "82204080-c41f-42fe-b88e-01c1c1a6befa"
+Template: "82204080-c41f-42fe-b88e-01c1c1a6befa"
+Path: /sitecore/templates/Project/officecore/Product Section/__Standard Values
+Signature: vnvAd7A1SmCjIIy2C0WTgktpbgJjcruwIop8DPTs2QQ=
+Modified: 637895212598045419
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Promo Content\Data.yml
+ID: "aabf64ec-efaf-419f-8482-b2ae33bd5c83"
+Parent: "1712fb69-02c8-448c-99ac-859b5305e289"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Promo Content/Data
+Signature: xQZxoNw5Z8EuEXO9mDjoblRCFkZ5hWXgafqdHEk1Q0w=
+Modified: 637885747302988168
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 1.yml
+ID: "fff727c4-ccb7-40be-a30b-a687e6dd7f10"
+Parent: "9bb8f81c-6b03-4655-adcc-19315fd9e90c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Steps/Step 1
+Signature: qopRG/0xb3oqdm61D9dc5zjlCCbVVbVYa1neReqR5uM=
+Modified: 637885747303048198
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 2.yml
+ID: "f1d277b0-d8e9-4bb4-916a-057a7101be9f"
+Parent: "9bb8f81c-6b03-4655-adcc-19315fd9e90c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Steps/Step 2
+Signature: RNN2IUir3qaSKEfT9CEkwC7ShAowFBRuU6ajlzfS5lM=
+Modified: 637885747303088182
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Steps\Step 3.yml
+ID: "fb465dbb-2e52-4fe7-938a-f969261e3239"
+Parent: "9bb8f81c-6b03-4655-adcc-19315fd9e90c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Steps/Step 3
+Signature: lxGFqLvLFEt6b0YUVkYP3yJJxzqnVUht/hojynlU1Dk=
+Modified: 637885747303198390
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Tag\Data.yml
+ID: "df095f6f-f418-4621-82ea-c181f3dbdfe6"
+Parent: "c1b81772-c326-4b30-9108-6f1ea131f395"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Tag/Data
+Signature: szDgFdWB+GEpBQv2OPuXuEMmxzCRfCLAa+lwIZXdwco=
+Modified: 637885747303288215
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Tag\__Standard Values.yml
+ID: "3ab33448-2b17-4e46-8bf6-0a5e39b557e2"
+Parent: "c1b81772-c326-4b30-9108-6f1ea131f395"
+Template: "c1b81772-c326-4b30-9108-6f1ea131f395"
+Path: /sitecore/templates/Project/officecore/Tag/__Standard Values
+Signature: nDS+FMDt1RDCZXxM6uqhF+Wo5n6HneXkIG1sxGqVf34=
+Modified: 637885747303328217
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Video\Data.yml
+ID: "cbc9d842-86e1-4399-acce-3328077825c2"
+Parent: "31c83f7a-4bc9-4ca6-b91b-3fc13949bbea"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Video/Data
+Signature: flWqvjhgpK5ScVzOD+2msYL8OaQAabZ0imNGpF6QSgY=
+Modified: 637891176471527868
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\App Route\Page Metadata\pageTitle.yml
+ID: "1124de2d-ddc6-5a74-a80f-2f4183715a94"
+Parent: "06b05179-ca5f-5367-8511-961e61899ade"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/App Route/Page Metadata/pageTitle
+Signature: nlwPfS1o4kaE/xghWMPCqACsA0zvtk9RF65B8V+lIL4=
+Modified: 637885747302108200
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Client\Data\Logo.yml
+ID: "4ae422d3-db33-4872-909e-388dba8455ac"
+Parent: "21fa55ac-ae23-44ab-9c7f-ec7b894f8e0b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Client/Data/Logo
+Signature: lyXtRtd1ZFmz13ohEDVvYCQIxQG0sS7Gnkn1g2ftOsM=
+Modified: 637885747302258200
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Client\Data\Vertical.yml
+ID: "b133ce72-41da-46a0-9665-63aa3fa01e12"
+Parent: "21fa55ac-ae23-44ab-9c7f-ec7b894f8e0b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Client/Data/Vertical
+Signature: ElATKbgczvxeYheZhNrg/CqSdHGYY23Dw1K8Uuwq8KE=
+Modified: 637891141506406280
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Client\Data\Website.yml
+ID: "7303b34a-1332-4d5c-93f3-503b0d1487fc"
+Parent: "21fa55ac-ae23-44ab-9c7f-ec7b894f8e0b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Client/Data/Website
+Signature: 8wiL39lTV7nge23ktp3tp9zW3zg9nFJIhWHE5t+uCXg=
+Modified: 637885747302278183
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\ClientsFolder\Data\Text.yml
+ID: "4fc79ae3-4b41-4438-b872-e6cecd4d52d7"
+Parent: "55983668-a7e7-4424-a51a-b2bad5e96e2d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/ClientsFolder/Data/Text
+Signature: iPy36tuCT7ZlYL+YjSqy+C/MJp4ZUiLtMFoA3Ckhf+w=
+Modified: 637885747302308234
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\ClientsFolder\Data\Title.yml
+ID: "77d97db0-ca16-4c34-a4e0-ff9e748715de"
+Parent: "55983668-a7e7-4424-a51a-b2bad5e96e2d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/ClientsFolder/Data/Title
+Signature: ORn+PxabbIq7C+k24TP/6pet9Ozub8pi34WVRrYYJ6Q=
+Modified: 637885747302318174
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Contact\Contact.yml
+ID: "ba62feb5-9503-423c-a3cb-9cbb6efd5a42"
+Parent: "6c3b2871-3c60-41c8-97de-7f371edab6a5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Footer/Contact/Contact
+Signature: u6NXV56kxP8V/mGKdyDsJJxKffoPwYckOBuqUYPk/OM=
+Modified: 637891141506106267
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Copyright\Copyright.yml
+ID: "bb66a946-7306-4781-a7b4-1e44084f45ae"
+Parent: "afdd939b-71c4-4ee7-b415-b9d55f2b1514"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Footer/Copyright/Copyright
+Signature: XcLlaq9P0Ly0lsD1MCn36SOnuV12fbxezuJLZ5ilSus=
+Modified: 637891141506326290
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Officecore\Logo.yml
+ID: "c966411d-a410-4759-9eb7-0341424bacef"
+Parent: "99859eb2-f896-409b-8367-5195457386d9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Footer/Officecore/Logo
+Signature: tC+2QGxZ0AYAhcghEgN2JcUT5NBZAzRwEdbt0uLT4/A=
+Modified: 637891141506056264
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Quick Links\QuickLinks.yml
+ID: "1a532c8c-bca6-4cdd-9152-111b6d26304b"
+Parent: "6875cabd-e45d-4b5b-be99-827ee03a4772"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Footer/Quick Links/QuickLinks
+Signature: WKTRnGWbTmyZ6Qir8RIsqfusczScHzFjGw+iXjVFd40=
+Modified: 637891141506086269
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Footer\Services\Services.yml
+ID: "7b323573-88da-4478-a4c0-fc06570f2540"
+Parent: "d73e63cc-17bd-4f5e-8e4c-f0143a28d10d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Footer/Services/Services
+Signature: iGaEJRH/gRXMvNTiCT7NTnrMcV7EMpxxwQSyA9midVs=
+Modified: 637891141506076295
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Form\Data\FormLink.yml
+ID: "c24c19da-a579-4a04-a865-8ccef8fed0c4"
+Parent: "b97d0232-60a2-4153-ac3e-0613bba3b820"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Form/Data/FormLink
+Signature: gVIhomjlBNZUiWfUedjtSH6DFmCFyocg1OYvaaT8L00=
+Modified: 637891176471597831
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Form\Data\Image.yml
+ID: "e62baa77-1620-426c-a5cf-b81e3c215d39"
+Parent: "b97d0232-60a2-4153-ac3e-0613bba3b820"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Form/Data/Image
+Signature: eJJwOIlo8yOW+oFCJxD9NR8W2RHWUoJyeDJQwFXEubo=
+Modified: 637891176471557872
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Form\Data\Subtitle.yml
+ID: "0cd856fe-a29d-47c5-bf38-74842cc00b20"
+Parent: "b97d0232-60a2-4153-ac3e-0613bba3b820"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Form/Data/Subtitle
+Signature: Z58zDh2ECDvo6b6rh6muhW7zUs2RhgpqgZSj4zLtTZ4=
+Modified: 637891176471587827
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Form\Data\Title.yml
+ID: "fdf5cc7d-3c82-4bc5-99cc-1eadb4ca51d3"
+Parent: "b97d0232-60a2-4153-ac3e-0613bba3b820"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Form/Data/Title
+Signature: 8/mqYzOBTTLlbnFLe7fJNod8OK2O9eYNUKqptazLVzs=
+Modified: 637891176471567856
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Header\Data\DarkLogo.yml
+ID: "fe585dda-5e06-454f-a7fc-09e4518b1139"
+Parent: "08dc9258-2b4f-4de9-8fa4-0546fd3a759f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Header/Data/DarkLogo
+Signature: 7yWiV8pYcIQhVGT39xXMBmGp4qRXEIjLePC81CRvUEw=
+Modified: 637901338298118626
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Header\Data\LightLogo.yml
+ID: "1baf4e3f-0d37-4857-be73-8558fa109b07"
+Parent: "08dc9258-2b4f-4de9-8fa4-0546fd3a759f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/Header/Data/LightLogo
+Signature: M+Jk50U9qgppFnrRUBCBY1JEjOd5aX0cLbV8LgUStM0=
+Modified: 637901338297962367
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\Data.yml
+ID: "72c07b97-9e04-4f78-9bfb-2393f3809e06"
+Parent: "2a05e901-c2a0-422c-baea-13bb2749e93c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/Data
+Signature: nIWnOtnkHKnfwFA/Ri9AOi3xMCyOM3v8nMCQqq8xyjM=
+Modified: 637885747302438212
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\Layout Service\List Items Content Resolver\__Standard Values.yml
+ID: "5b7769f5-a7bc-473e-a1cf-c5de5fd200c7"
+Parent: "2a05e901-c2a0-422c-baea-13bb2749e93c"
+Template: "2a05e901-c2a0-422c-baea-13bb2749e93c"
+Path: /sitecore/templates/Project/officecore/Layout Service/List Items Content Resolver/__Standard Values
+Signature: fEbvxVpBPL+RU3o8bXmZ3wRIWi/ON+jrdroEhOBRzr8=
+Modified: 637885747302548209
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article\News Content\Date.yml
+ID: "113dc201-3778-490d-ad7d-7c677b70a3d3"
+Parent: "3a827788-9674-40fd-a31e-c30ab018e475"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/News Article/News Content/Date
+Signature: Z/QjupxAZZt6JxQZIAa1fpPeOecGzkDn3UhZ8/YX0Hk=
+Modified: 637885747302578197
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article\News Content\Image.yml
+ID: "37255cc1-ef10-43f9-8272-222308299015"
+Parent: "3a827788-9674-40fd-a31e-c30ab018e475"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/News Article/News Content/Image
+Signature: gsNkCZd89jtgUemghvQAfBilQzBHa0w/fnUXcv/g0LQ=
+Modified: 637885747302588205
+---
+File: |
+  C:\Projects\NextJS\Officecore-JSS\sitecore_modules\officecore\serialization\templates\officecore\News Article\News Content\Intro.yml
+ID: "a66776e4-2b56-46db-82fb-e6770ab7905d"
+Parent: "3a827788-9674-40fd-a31e-c30ab018e475"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/officecore/News Article/News Content/Intro
+Signature: ORYUic2xoExU1n8uymo7pGizbsWeG6/EUwfxuhKl98E=
+Modified: 637885747302598209
